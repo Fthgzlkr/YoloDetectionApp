@@ -1,0 +1,96 @@
+﻿import sys
+import os
+import cv2
+import numpy as np
+from ultralytics import YOLO
+import random
+
+def generate_class_colors(num_classes):
+    return {i: (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255)) for i in range(num_classes)}
+
+
+CLASS_NAMES = {
+    0: "plane",
+    1: "ship",
+    2: "large-vehicle",
+    3: "small-vehicle"
+}
+
+CLASS_COLORS = generate_class_colors(len(CLASS_NAMES))
+
+def get_next_filename(output_dir, input_filename):
+    base_filename = os.path.splitext(os.path.basename(input_filename))[0]  
+    filename = f"{base_filename}.png" 
+    filepath = os.path.join(output_dir, filename)
+    return filepath
+
+
+def split_and_detect(image_path, output_dir, model_path, tile_size=640):
+    os.makedirs(output_dir, exist_ok=True)
+
+    model = YOLO(model_path)
+
+    image = cv2.imread(image_path)
+    if image is None:
+        print(f"Error: Unable to load image at {image_path}")
+        return
+
+    height, width, _ = image.shape
+    result_image = image.copy()
+
+    if height > tile_size or width > tile_size:
+        pad_h = (tile_size - height % tile_size) % tile_size
+        pad_w = (tile_size - width % tile_size) % tile_size
+        padded_image = cv2.copyMakeBorder(image, 0, pad_h, 0, pad_w, cv2.BORDER_CONSTANT, value=(0, 0, 0))
+        padded_height, padded_width, _ = padded_image.shape
+
+        for y in range(0, padded_height, tile_size):
+            for x in range(0, padded_width, tile_size):
+                tile = padded_image[y:y+tile_size, x:x+tile_size]
+                results = model.predict(source=tile, save=False)
+
+                for result in results:
+                    for box in result.boxes:
+                        x1, y1, x2, y2 = box.xyxy[0].cpu().numpy()
+                        class_id = int(box.cls[0].cpu().numpy())
+                        conf = box.conf[0].cpu().numpy()
+
+                        x1 += x
+                        x2 += x
+                        y1 += y
+                        y2 += y
+
+                        color = CLASS_COLORS.get(class_id, (0, 255, 0))
+                        text_y = int(y1) - 10 if y1 > 20 else int(y1) + 20
+
+                        cv2.rectangle(result_image, (int(x1), int(y1)), (int(x2), int(y2)), color, 2)
+                        cv2.putText(result_image, f"{class_id}", (int(x1), text_y), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255, 255, 255), 2)
+    else:
+        results = model.predict(source=image, save=False)
+
+        for result in results:
+            for box in result.boxes:
+                x1, y1, x2, y2 = box.xyxy[0].cpu().numpy()
+                class_id = int(box.cls[0].cpu().numpy())
+                conf = box.conf[0].cpu().numpy()
+
+                color = CLASS_COLORS.get(class_id, (0, 255, 0))
+                text_y = int(y1) - 10 if y1 > 20 else int(y1) + 20
+
+                cv2.rectangle(result_image, (int(x1), int(y1)), (int(x2), int(y2)), color, 2)
+                cv2.putText(result_image, f"{class_id}", (int(x1), text_y), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255, 255, 255), 2)
+
+    final_output_path = get_next_filename(output_dir, image_path)
+    cv2.imwrite(final_output_path, result_image)
+    print(f"Final image saved at {final_output_path}")
+
+
+if len(sys.argv) < 2:
+    print("[Python] Hata: Resim yolu eksik!")
+    sys.exit(1)
+
+image_path = sys.argv[1]
+output_dir = os.path.join(os.path.dirname(image_path), "outputs")
+model_path = os.path.join(os.path.dirname(__file__), "last.pt")
+
+split_and_detect(image_path, output_dir, model_path)
