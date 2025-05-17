@@ -84,3 +84,4 @@ C:\Users\bilgi\Desktop\YoloDetectionApp\YoloDetectionApp\obj\Debug\net8.0\refint
 C:\Users\bilgi\Desktop\YoloDetectionApp\YoloDetectionApp\obj\Debug\net8.0\YoloDetectionApp.pdb
 C:\Users\bilgi\Desktop\YoloDetectionApp\YoloDetectionApp\obj\Debug\net8.0\YoloDetectionApp.genruntimeconfig.cache
 C:\Users\bilgi\Desktop\YoloDetectionApp\YoloDetectionApp\obj\Debug\net8.0\ref\YoloDetectionApp.dll
+C:\Users\bilgi\Desktop\YoloDetectionApp\YoloDetectionApp\obj\Debug\net8.0\YoloDetectionApp.sourcelink.json

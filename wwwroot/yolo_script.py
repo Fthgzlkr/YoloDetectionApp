@@ -7,11 +7,14 @@ import random
 from collections import defaultdict
 import json
 
-# Rastgele renk ataması
-def generate_class_colors(num_classes):
-    return {i: (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255)) for i in range(num_classes)}
 
-CLASS_COLORS = generate_class_colors(100)  # Max 100 sınıf desteklenir
+CLASS_COLORS = {
+    0: (0, 123, 255),    # plane - mavi
+    1: (220, 53, 69),    # ship - kırmızı
+    2: (40, 167, 69),    # large-vehicle - yeşil
+    3: (255, 193, 7)     # small-vehicle - sarı
+}
+
 
 def split_and_detect(image_path, output_dir, model_path, tile_size=640):
     os.makedirs(output_dir, exist_ok=True)

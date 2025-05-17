@@ -16,18 +16,17 @@
             <button type="submit" class="btn btn-primary w-100">Fotoğrafları Yükle ve İşle</button>
         </form>
 
-        <!-- Yükleme Animasyonu -->
         <div id="loading" style="display: none;" class="text-center mt-3">
             <div class="spinner-border text-primary" role="status"></div>
             <span>İşleniyor, lütfen bekleyin...</span>
         </div>
     </div>
 
-    <!-- Önizleme Galerisi (Yalnızca istemci taraflı önizleme) -->
+    <!-- Önizleme Galerisi -->
     <h3 class="mt-4">Yüklenen Resimler:</h3>
     <div class="row mt-2" id="previewGallery"></div>
 
-    <!-- Sonuç Galerisi (Modelden gelen işlenmiş resimler) -->
+    <!-- Sonuç Galerisi -->
     <h3 class="mt-4">İşlenmiş Resimler:</h3>
     <div class="row mt-2" id="resultGallery">
         @if (Model.ProcessedImages != null && Model.ProcessedImages.Any())
@@ -71,14 +70,36 @@
     body {
         background-color: #f8f9fa;
     }
+
+    .class-dot {
+        display: inline-block;
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        margin-right: 8px;
+    }
+
+    .class-summary {
+        padding-left: 20px;
+        border-left: 1px solid #ddd;
+    }
 </style>
 
 <!-- Resim Büyütme Modal -->
 <div class="modal fade" id="imageModal" tabindex="-1">
-    <div class="modal-dialog modal-lg">
+    <div class="modal-dialog modal-xl">
         <div class="modal-content">
-            <div class="modal-body">
-                <img id="modalImage" class="modal-img" />
+            <div class="modal-body d-flex">
+                <!-- Sol: Görsel -->
+                <div class="col-8 pe-3">
+                    <img id="modalImage" class="modal-img" />
+                </div>
+
+                <!-- Sağ: Sınıf Özeti -->
+                <div class="col-4 class-summary">
+                    <h5>Bulunan Nesneler:</h5>
+                    <div id="classSummaryList"></div>
+                </div>
             </div>
         </div>
     </div>
@@ -86,36 +107,67 @@
 
 <!-- Script -->
 <script>
-    function previewImages(event) {
-        const files = event.target.files;
-        const gallery = document.getElementById('previewGallery');
-        gallery.innerHTML = '';
-
-        for (let i = 0; i < files.length; i++) {
-            const reader = new FileReader();
-            reader.onload = function (e) {
-                const div = document.createElement('div');
-                div.classList.add('col-md-3', 'img-card');
-                div.innerHTML = `
-                    <img src="${e.target.result}" class="preview-img rounded" onclick="showModal('${e.target.result}')">
-                    <p>${files[i].name}</p>
-                `;
-                gallery.appendChild(div);
-            };
-            reader.readAsDataURL(files[i]);
-        }
-    }
-
-    function showModal(src) {
-        const modal = new bootstrap.Modal(document.getElementById('imageModal'));
-        const modalImage = document.getElementById('modalImage');
-        modalImage.src = src;
-        modal.show();
-    }
-
     const form = document.getElementById('uploadForm');
     const loading = document.getElementById('loading');
     form.addEventListener('submit', function () {
         loading.style.display = 'block';
     });
+
+    // Sunucudan gelen class özetleri
+    const classData = @Html.Raw(Json.Serialize(Model.ClassSummaries));
+
+   function previewImages(event) {
+    const files = event.target.files;
+    const gallery = document.getElementById('previewGallery');
+    gallery.innerHTML = '';
+
+    for (let i = 0; i < files.length; i++) {
+        const reader = new FileReader();
+        reader.onload = function (e) {
+            const div = document.createElement('div');
+            div.classList.add('col-md-3', 'img-card');
+            div.innerHTML = `
+                <img src="${e.target.result}" class="preview-img rounded">
+                <p>${files[i].name}</p>
+            `;
+            gallery.appendChild(div);
+        };
+        reader.readAsDataURL(files[i]);
+    }
+}
+
+function showModal(src) {
+    console.log("🖼️ Tıklanan resim src:", src);
+    console.log("📦 classData (tüm veriler):", classData);
+    console.log("🔍 classData[src]:", classData[src]);
+
+    const modal = new bootstrap.Modal(document.getElementById('imageModal'));
+    const modalImage = document.getElementById('modalImage');
+    modalImage.src = src;
+
+    const summaryList = document.getElementById('classSummaryList');
+    summaryList.innerHTML = '';
+
+    const summary = classData[src];
+    if (summary && summary.length > 0) {
+        summary.forEach(item => {
+            console.log("🧪 item verisi:", item);  // 💥 Burayı da ekle
+            const row = document.createElement('div');
+            row.classList.add("d-flex", "align-items-center", "mb-2");
+            row.innerHTML = `
+    <span class="class-dot" style="background-color:${item.colorHex};"></span>
+    <strong class="me-2">${item.className}</strong>
+    <span class="ms-auto">×${item.count}</span>
+`;
+
+            summaryList.appendChild(row);
+        });
+    } else {
+        summaryList.innerHTML = '<p>Bu resim için sınıf özeti yok.</p>';
+    }
+
+    modal.show();
+}
+
+
 </script>
