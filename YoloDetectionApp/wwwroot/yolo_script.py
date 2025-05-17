@@ -1,14 +1,11 @@
-﻿import sys
+import sys
 import os
 import cv2
 import numpy as np
 from ultralytics import YOLO
 import random
 
-def generate_class_colors(num_classes):
-    return {i: (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255)) for i in range(num_classes)}
-
-
+# Sınıf ID -> İsim eşleşmesi
 CLASS_NAMES = {
     0: "plane",
     1: "ship",
@@ -16,13 +13,11 @@ CLASS_NAMES = {
     3: "small-vehicle"
 }
 
-CLASS_COLORS = generate_class_colors(len(CLASS_NAMES))
+# Rastgele renk ataması
+def generate_class_colors(num_classes):
+    return {i: (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255)) for i in range(num_classes)}
 
-def get_next_filename(output_dir, input_filename):
-    base_filename = os.path.splitext(os.path.basename(input_filename))[0]  
-    filename = f"{base_filename}.png" 
-    filepath = os.path.join(output_dir, filename)
-    return filepath
+CLASS_COLORS = generate_class_colors(len(CLASS_NAMES))
 
 
 def split_and_detect(image_path, output_dir, model_path, tile_size=640):
@@ -61,10 +56,11 @@ def split_and_detect(image_path, output_dir, model_path, tile_size=640):
                         y2 += y
 
                         color = CLASS_COLORS.get(class_id, (0, 255, 0))
+                        label = CLASS_NAMES.get(class_id, f"class {class_id}")
                         text_y = int(y1) - 10 if y1 > 20 else int(y1) + 20
 
                         cv2.rectangle(result_image, (int(x1), int(y1)), (int(x2), int(y2)), color, 2)
-                        cv2.putText(result_image, f"{class_id}", (int(x1), text_y), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255, 255, 255), 2)
+                        cv2.putText(result_image, label, (int(x1), text_y), cv2.FONT_HERSHEY_SIMPLEX, 0.5, color, 2)
     else:
         results = model.predict(source=image, save=False)
 
@@ -75,18 +71,29 @@ def split_and_detect(image_path, output_dir, model_path, tile_size=640):
                 conf = box.conf[0].cpu().numpy()
 
                 color = CLASS_COLORS.get(class_id, (0, 255, 0))
+                label = CLASS_NAMES.get(class_id, f"class {class_id}")
                 text_y = int(y1) - 10 if y1 > 20 else int(y1) + 20
 
                 cv2.rectangle(result_image, (int(x1), int(y1)), (int(x2), int(y2)), color, 2)
-                cv2.putText(result_image, f"{class_id}", (int(x1), text_y), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255, 255, 255), 2)
+                cv2.putText(result_image, label, (int(x1), text_y), cv2.FONT_HERSHEY_SIMPLEX, 0.5, color, 2)
 
-    final_output_path = get_next_filename(output_dir, image_path)
-    cv2.imwrite(final_output_path, result_image)
-    print(f"Final image saved at {final_output_path}")
+    # Çıktı dosya yolunu oluştur (aynı uzantı ve isim)
+    output_filename = os.path.basename(image_path)
+    output_path = os.path.join(output_dir, output_filename)
+
+    # Formatı belirle ve kaydet
+    ext = os.path.splitext(output_filename)[1].lower()
+    if ext in [".jpg", ".jpeg"]:
+        cv2.imwrite(output_path, result_image, [int(cv2.IMWRITE_JPEG_QUALITY), 95])
+    else:
+        cv2.imwrite(output_path, result_image)
+
+    print(f"[Python] ✅ Çıktı oluşturuldu: {output_path}")
 
 
+# === Ana giriş noktası ===
 if len(sys.argv) < 2:
-    print("[Python] Hata: Resim yolu eksik!")
+    print("[Python] ❌ Hata: Resim yolu eksik!")
     sys.exit(1)
 
 image_path = sys.argv[1]
