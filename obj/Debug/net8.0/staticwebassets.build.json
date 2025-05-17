@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "p9dn/OBK7jkcXdFThijkHQmrFTH01SRclIgbAPNzxZA=",
+  "Hash": "zSbHwxuYX/KjvXPBa5joH+G8OX7QzutX0XeX4u8eAgg=",
   "Source": "YoloDetectionApp",
   "BasePath": "_content/YoloDetectionApp",
   "Mode": "Default",
@@ -1340,12 +1340,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\68515_01_lisbonairport_portugal_27feb2020_wv3_485635.jpg",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\1249499e-a53a-4f9e-b1dd-37fc5cf783bd.png",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/68515_01_lisbonairport_portugal_27feb2020_wv3_485635#[.{fingerprint}]?.jpg",
+      "RelativePath": "uploads/1249499e-a53a-4f9e-b1dd-37fc5cf783bd#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1354,19 +1354,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ycvkbl0mqj",
-      "Integrity": "wrr3VaeXt+ZJTbMl9dVibtqOxlkn1RwKtJgZn28q6y0=",
+      "Fingerprint": "emjgspb4u3",
+      "Integrity": "VhdMe1yYXWtsh1sbGuJrp8p7RTsxrEtYRVykV0ygCY8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\68515_01_lisbonairport_portugal_27feb2020_wv3_485635.jpg"
+      "OriginalItemSpec": "wwwroot\\uploads\\1249499e-a53a-4f9e-b1dd-37fc5cf783bd.png"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0102.png",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\3601ae06-61fa-4d8a-b32a-62975d851f62.png",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/outputs/P0102#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/3601ae06-61fa-4d8a-b32a-62975d851f62#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1375,19 +1375,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7by18p8jk4",
-      "Integrity": "86/D0tRRdIl+XLXk36CzBp0UTAf7fbGyDr8q39/cIc8=",
+      "Fingerprint": "5m35pmd9bf",
+      "Integrity": "c30GTwZLm3Tq3x6RB0ozmKT3sbH8+ZazE0hUIpPPapw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\P0102.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\3601ae06-61fa-4d8a-b32a-62975d851f62.png"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0205.png",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\3a6ddc41-9345-4520-bff8-1e67e4747426.jpg",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/outputs/P0205#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/3a6ddc41-9345-4520-bff8-1e67e4747426#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1396,19 +1396,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rebxz7gbvl",
-      "Integrity": "A/cTfxPJUIdUOKbjUCS8zSPx2inPCkWlsxnpgGCn5gs=",
+      "Fingerprint": "d6c9n8piny",
+      "Integrity": "G7NuJRrqjK/axp1cWZeH61dAKo8gR+u9i07VNR4edmc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\P0205.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\3a6ddc41-9345-4520-bff8-1e67e4747426.jpg"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0506.png",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\4a264945-6d9a-47af-b3ee-b23579e9b75f.png",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/outputs/P0506#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/4a264945-6d9a-47af-b3ee-b23579e9b75f#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1417,19 +1417,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ez2dcai01c",
-      "Integrity": "WmRnnliS4El8UoA0DxPZIcSOxCm5TFKupLOqOWf4ox0=",
+      "Fingerprint": "ol8d7wha1d",
+      "Integrity": "zOMk4+GeNBcSec/76HCW62nSK3mf/NyC934lV0o6poE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\P0506.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\4a264945-6d9a-47af-b3ee-b23579e9b75f.png"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0678.png",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\6873e41b-29f8-4996-a6d2-ae15a8ba9bb6.jpg",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/outputs/P0678#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/6873e41b-29f8-4996-a6d2-ae15a8ba9bb6#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1438,19 +1438,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "627yicaxmq",
-      "Integrity": "Pjrw2i0MBYQ48R91cN4k+Cy7Bj9v6ZsI5LCzdrRL/JE=",
+      "Fingerprint": "g0f5bwstsa",
+      "Integrity": "QEZJVarU++ICkCdXFj0z/LA/IK4CCU6GBgJYUJ75aM8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\P0678.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\6873e41b-29f8-4996-a6d2-ae15a8ba9bb6.jpg"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0836.png",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\8bf5263e-ffef-4443-bdf7-21c0b3d1ed7a.png",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/outputs/P0836#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/8bf5263e-ffef-4443-bdf7-21c0b3d1ed7a#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1459,19 +1459,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bfw24dve0j",
-      "Integrity": "WaeGRClK88vPCzjdwmiTVffIkomSYCFBXvEqltHdCBw=",
+      "Fingerprint": "5m35pmd9bf",
+      "Integrity": "c30GTwZLm3Tq3x6RB0ozmKT3sbH8+ZazE0hUIpPPapw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\P0836.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\8bf5263e-ffef-4443-bdf7-21c0b3d1ed7a.png"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0842.png",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\9452dbf3-1376-4910-a08e-8b13b239a105.jpg",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/outputs/P0842#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/9452dbf3-1376-4910-a08e-8b13b239a105#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1480,229 +1480,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qyr750eylx",
-      "Integrity": "Ug6mlgToUcU2TFII5CAKIbtwdKKitDIPv8OrG5udVKs=",
+      "Fingerprint": "d6c9n8piny",
+      "Integrity": "G7NuJRrqjK/axp1cWZeH61dAKo8gR+u9i07VNR4edmc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\P0842.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\9452dbf3-1376-4910-a08e-8b13b239a105.jpg"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0865.png",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\9ee349c2-d3b2-4430-9f1a-77f6de02f6c4.png",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/outputs/P0865#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "vhryjnh3vg",
-      "Integrity": "sz7+hTeHGMYLKbeD90udxs6+kq6sSbjdtVY1uHFEKCg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\P0865.png"
-    },
-    {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0880.png",
-      "SourceId": "YoloDetectionApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
-      "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/outputs/P0880#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "na9qkenfns",
-      "Integrity": "j20vUPOPErMtS/ny3rYHchKTmhU+LBVc9gyFWbiMA9A=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\P0880.png"
-    },
-    {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0891.png",
-      "SourceId": "YoloDetectionApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
-      "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/outputs/P0891#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "z8mbaw97yb",
-      "Integrity": "naBJOymQF/K0rGOryihbxeL8TfdERqszlMx1zMSNXDY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\P0891.png"
-    },
-    {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0917.png",
-      "SourceId": "YoloDetectionApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
-      "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/outputs/P0917#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "22n95hnzyk",
-      "Integrity": "+hXrEsBqgQRPKVIBfWnMKVP3480gFNBi0SThxKmAiOQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\P0917.png"
-    },
-    {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0984.png",
-      "SourceId": "YoloDetectionApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
-      "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/outputs/P0984#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "6e922g16y4",
-      "Integrity": "Dq41JG7HAY0xwIL6p04S6+9yoYG2520CIhqwNPTPTtQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\P0984.png"
-    },
-    {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0996.png",
-      "SourceId": "YoloDetectionApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
-      "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/outputs/P0996#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "xnvo1j3us0",
-      "Integrity": "s8yFtCGUTEXaZ3YqtHgt6gMwSybZNRD9u5sY1eA7shk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\P0996.png"
-    },
-    {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P1034.png",
-      "SourceId": "YoloDetectionApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
-      "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/outputs/P1034#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "m4utu6253u",
-      "Integrity": "OqyZhjlce4iVIN9LYKaXG1m+7BmUPegI/SYB++YiT0A=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\P1034.png"
-    },
-    {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P1081.png",
-      "SourceId": "YoloDetectionApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
-      "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/outputs/P1081#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "focdn3jek7",
-      "Integrity": "kWvTNHkon7vpxmX0WGrdLosq6tV1Vo8OrjZ9qO3Sq/A=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\P1081.png"
-    },
-    {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P1146.png",
-      "SourceId": "YoloDetectionApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
-      "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/outputs/P1146#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "cblq19gfc1",
-      "Integrity": "aBNzv+SNDMAkdUbbdXwWTJBhF4c8fFLBIGZFzBSaRQk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\P1146.png"
-    },
-    {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P1169.png",
-      "SourceId": "YoloDetectionApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
-      "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/outputs/P1169#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "d2oh3q5a2v",
-      "Integrity": "Fe8Vj6d5YG108SD3vyOqPW3md+9XLFIQ8rBiVTNwv3U=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\P1169.png"
-    },
-    {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0102.png",
-      "SourceId": "YoloDetectionApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
-      "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/P0102#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/9ee349c2-d3b2-4430-9f1a-77f6de02f6c4#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1715,15 +1505,15 @@
       "Integrity": "B2MhdFlcQTF4XjQHow3NS7/HCj9RF/JKsvR1mDG35Jg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\P0102.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\9ee349c2-d3b2-4430-9f1a-77f6de02f6c4.png"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0205.png",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\bccbbc10-3821-4bb4-88a5-f2eec7623fb0.png",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/P0205#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/bccbbc10-3821-4bb4-88a5-f2eec7623fb0#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1732,19 +1522,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "lfir39x4r9",
-      "Integrity": "EU0Z7J++4FhMVK5NZglfp90fmXG3NniVFdOlINEwVw0=",
+      "Fingerprint": "emjgspb4u3",
+      "Integrity": "VhdMe1yYXWtsh1sbGuJrp8p7RTsxrEtYRVykV0ygCY8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\P0205.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\bccbbc10-3821-4bb4-88a5-f2eec7623fb0.png"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0506.png",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\Hartsfield–Jackson-Atlanta-International-Airport.jpg",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/P0506#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/Hartsfield–Jackson-Atlanta-International-Airport#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1753,19 +1543,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "321wwczgum",
-      "Integrity": "W80jl+DS7QkF9h4APm8s7tgTXHtHIdPo9nRMRBXb078=",
+      "Fingerprint": "g0f5bwstsa",
+      "Integrity": "QEZJVarU++ICkCdXFj0z/LA/IK4CCU6GBgJYUJ75aM8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\P0506.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\Hartsfield–Jackson-Atlanta-International-Airport.jpg"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0678.png",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\online-1024x683.jpg",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/P0678#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/online-1024x683#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1774,19 +1564,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1arxs6ly98",
-      "Integrity": "WUwf00GXXp0woyoxupgj8maDRSVOj9Awqs+GpwTBBtI=",
+      "Fingerprint": "cc0fsx8pjs",
+      "Integrity": "fC+n+NioDc4CcvB+BfGNiDVvXQl7td9mKr8IjdnwfSI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\P0678.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\online-1024x683.jpg"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0836.png",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\3601ae06-61fa-4d8a-b32a-62975d851f62.png",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/P0836#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/outputs/3601ae06-61fa-4d8a-b32a-62975d851f62#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1795,19 +1585,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "25lieapr6m",
-      "Integrity": "hsFVB/sM7iBMlWd0bzSZlu7mWewy9l+AD23hEo1Va0s=",
+      "Fingerprint": "yxmm9t107p",
+      "Integrity": "pmp17thPF7YFsIiDdUmHxx2B+mL/znjY9sqdSXEhkmo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\P0836.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\3601ae06-61fa-4d8a-b32a-62975d851f62.png"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0842.png",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\4a264945-6d9a-47af-b3ee-b23579e9b75f.png",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/P0842#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/outputs/4a264945-6d9a-47af-b3ee-b23579e9b75f#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1816,19 +1606,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7z8nt3hbyj",
-      "Integrity": "M4ZSSKcGDMIDa8TR4VdKOZat+RV6oYYxtwkI//3Rnds=",
+      "Fingerprint": "frt0jna60a",
+      "Integrity": "VZqvr94Te1HUo1WAGbL8UESrO82gqyzUJKHVgTlSxGQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\P0842.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\4a264945-6d9a-47af-b3ee-b23579e9b75f.png"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0865.png",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\6873e41b-29f8-4996-a6d2-ae15a8ba9bb6.jpg",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/P0865#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/outputs/6873e41b-29f8-4996-a6d2-ae15a8ba9bb6#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1837,19 +1627,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "a7ret7iie6",
-      "Integrity": "yiWO8V52RzvOFi05v+3ppk7PBDlumNg+L7awRQVJOYA=",
+      "Fingerprint": "a5448xqpaj",
+      "Integrity": "/vlwmkEFvMI6x0LQda8+38OeiPDfEwA/OVu4AgaBaD0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\P0865.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\6873e41b-29f8-4996-a6d2-ae15a8ba9bb6.jpg"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0880.png",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\8bf5263e-ffef-4443-bdf7-21c0b3d1ed7a.png",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/P0880#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/outputs/8bf5263e-ffef-4443-bdf7-21c0b3d1ed7a#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1858,19 +1648,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "f3dwtm0q85",
-      "Integrity": "S99mPgsOZnoPdavh6nFZ/V4sKxxCoLmTNlCTwiS5mAA=",
+      "Fingerprint": "hmy3u6kyod",
+      "Integrity": "97eufeR+WL+Y09hSdws7/gi9LkYr91S3TlUM/LweA/c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\P0880.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\8bf5263e-ffef-4443-bdf7-21c0b3d1ed7a.png"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0891.png",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\9452dbf3-1376-4910-a08e-8b13b239a105.png",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/P0891#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/outputs/9452dbf3-1376-4910-a08e-8b13b239a105#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1879,19 +1669,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9thsqt4i11",
-      "Integrity": "0wiLc5k7wqn5WP25OpVxO0YS0Q4kDiyVQA/WzvvZzTo=",
+      "Fingerprint": "4iw9iuo3ek",
+      "Integrity": "NCmaFXsz287tBe4ncb/BrprS9/UBWXKiLOPLv2V1yDs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\P0891.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\9452dbf3-1376-4910-a08e-8b13b239a105.png"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0917.png",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\9ee349c2-d3b2-4430-9f1a-77f6de02f6c4.png",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/P0917#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/outputs/9ee349c2-d3b2-4430-9f1a-77f6de02f6c4#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1900,19 +1690,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "cmxqkicxk2",
-      "Integrity": "tEjKdJP2jNEaabLXa1BwpCZeoZ7rDG0NlnwHv8H8O0s=",
+      "Fingerprint": "sdszgllpc4",
+      "Integrity": "cI6PQPmP78o/2b4wtMVv7MIJhleVJiexYRuVD+X4snM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\P0917.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\9ee349c2-d3b2-4430-9f1a-77f6de02f6c4.png"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0984.png",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\Hartsfield–Jackson-Atlanta-International-Airport.png",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/P0984#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/outputs/Hartsfield–Jackson-Atlanta-International-Airport#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1921,19 +1711,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "gsdwzq4aa4",
-      "Integrity": "MIcutqxHvKCKsNApzPPJg24FFr1RcTBlTMVbtiQ+vxc=",
+      "Fingerprint": "stqb6aymnj",
+      "Integrity": "cNWGN5IKsqTyRIYgPyERrmyEf8jYXAbXaRx3qzSZKv0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\P0984.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\Hartsfield–Jackson-Atlanta-International-Airport.png"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0996.png",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\online-1024x683.png",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/P0996#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/outputs/online-1024x683#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1942,19 +1732,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "y88dkboa3x",
-      "Integrity": "/vQxxykPJfexViqrRNmqyG2uGLYUc4jdQIPdA0pc3zw=",
+      "Fingerprint": "hf8k1w8q9o",
+      "Integrity": "U3dfOJoPoUfENkyw3SNznBCS/PIKotSetJmjf/Ykgbs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\P0996.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\online-1024x683.png"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P1034.png",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0026.png",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/P1034#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/outputs/P0026#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1963,19 +1753,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1i2wjiow82",
-      "Integrity": "VzDRiMwwLi7HsetJHAW+lVE8F88pfxFNm8kI1cT9HRM=",
+      "Fingerprint": "pqwczyoanc",
+      "Integrity": "PwTdUuNdyBHIN7eklX/ZUc3NRfjAQvGIBT8M1JsJCuk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\P1034.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\P0026.png"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P1081.png",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P2674_4.png",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/P1081#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/outputs/P2674_4#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1984,19 +1774,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7yfv4xu9qd",
-      "Integrity": "fyoeg+ASIZwdPVsE9XD5kbdqm3b6qcHKq/lWU/6LN+E=",
+      "Fingerprint": "wr5msb2k3p",
+      "Integrity": "vI5UCntoToQaWAyuHQK0FdwFcdFzkFTWh3Z+jncOpP4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\P1081.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\P2674_4.png"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P1146.png",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\worldview-2-dallas-airport.png",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/P1146#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/outputs/worldview-2-dallas-airport#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2005,19 +1795,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "cm8ij7m0v5",
-      "Integrity": "JMtMNjvwlvB/obh4r1ixj4arSIa91/wQxakJ5ciybpY=",
+      "Fingerprint": "y6wnbriv99",
+      "Integrity": "RuZvvHfD4tDPeCXz4sKaSBiwlPZ2p/XELzqZn3t3Yp0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\P1146.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\outputs\\worldview-2-dallas-airport.png"
     },
     {
-      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P1169.png",
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0026.png",
       "SourceId": "YoloDetectionApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
       "BasePath": "_content/YoloDetectionApp",
-      "RelativePath": "uploads/P1169#[.{fingerprint}]?.png",
+      "RelativePath": "uploads/P0026#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2026,11 +1816,53 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "04kz43uq9i",
-      "Integrity": "cN+Y6avI15CHyKBCsjb4AhzE8ZIxMSErzgM7/j6xNZQ=",
+      "Fingerprint": "emjgspb4u3",
+      "Integrity": "VhdMe1yYXWtsh1sbGuJrp8p7RTsxrEtYRVykV0ygCY8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\P1169.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\P0026.png"
+    },
+    {
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P2674_4.png",
+      "SourceId": "YoloDetectionApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
+      "BasePath": "_content/YoloDetectionApp",
+      "RelativePath": "uploads/P2674_4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5s7cnjsvj1",
+      "Integrity": "ZdWm2oAYAmxl3UDHnfaccH75LsyqFHVD5JyMk1/bOsw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\P2674_4.png"
+    },
+    {
+      "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\worldview-2-dallas-airport.jpg",
+      "SourceId": "YoloDetectionApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\",
+      "BasePath": "_content/YoloDetectionApp",
+      "RelativePath": "uploads/worldview-2-dallas-airport#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d6c9n8piny",
+      "Integrity": "G7NuJRrqjK/axp1cWZeH61dAKo8gR+u9i07VNR4edmc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\worldview-2-dallas-airport.jpg"
     },
     {
       "Identity": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\yolo_script.py",
@@ -2047,8 +1879,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mzmyaiys00",
-      "Integrity": "4po3hcqhZftBJbYNB9Lr4zUn8Ys9RXi1YDH5ftMwHj8=",
+      "Fingerprint": "5ht1376qfu",
+      "Integrity": "eYpsReguuRdY6OJ9b5C4jw++7Lb67aL/XlMvLHRod/M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\yolo_script.py"
@@ -7058,8 +6890,8 @@
       ]
     },
     {
-      "Route": "uploads/68515_01_lisbonairport_portugal_27feb2020_wv3_485635.jpg",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\68515_01_lisbonairport_portugal_27feb2020_wv3_485635.jpg",
+      "Route": "uploads/1249499e-a53a-4f9e-b1dd-37fc5cf783bd.emjgspb4u3.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\1249499e-a53a-4f9e-b1dd-37fc5cf783bd.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7068,7 +6900,171 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "35228"
+          "Value": "23298181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VhdMe1yYXWtsh1sbGuJrp8p7RTsxrEtYRVykV0ygCY8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "emjgspb4u3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1249499e-a53a-4f9e-b1dd-37fc5cf783bd.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VhdMe1yYXWtsh1sbGuJrp8p7RTsxrEtYRVykV0ygCY8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1249499e-a53a-4f9e-b1dd-37fc5cf783bd.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\1249499e-a53a-4f9e-b1dd-37fc5cf783bd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23298181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VhdMe1yYXWtsh1sbGuJrp8p7RTsxrEtYRVykV0ygCY8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VhdMe1yYXWtsh1sbGuJrp8p7RTsxrEtYRVykV0ygCY8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/3601ae06-61fa-4d8a-b32a-62975d851f62.5m35pmd9bf.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\3601ae06-61fa-4d8a-b32a-62975d851f62.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2931583"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c30GTwZLm3Tq3x6RB0ozmKT3sbH8+ZazE0hUIpPPapw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 17:08:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5m35pmd9bf"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/3601ae06-61fa-4d8a-b32a-62975d851f62.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c30GTwZLm3Tq3x6RB0ozmKT3sbH8+ZazE0hUIpPPapw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/3601ae06-61fa-4d8a-b32a-62975d851f62.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\3601ae06-61fa-4d8a-b32a-62975d851f62.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2931583"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c30GTwZLm3Tq3x6RB0ozmKT3sbH8+ZazE0hUIpPPapw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 17:08:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c30GTwZLm3Tq3x6RB0ozmKT3sbH8+ZazE0hUIpPPapw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/3a6ddc41-9345-4520-bff8-1e67e4747426.d6c9n8piny.jpg",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\3a6ddc41-9345-4520-bff8-1e67e4747426.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4500189"
         },
         {
           "Name": "Content-Type",
@@ -7076,27 +7072,35 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wrr3VaeXt+ZJTbMl9dVibtqOxlkn1RwKtJgZn28q6y0=\""
+          "Value": "\"G7NuJRrqjK/axp1cWZeH61dAKo8gR+u9i07VNR4edmc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 14:10:11 GMT"
+          "Value": "Sat, 17 May 2025 16:06:11 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
+          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "d6c9n8piny"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/3a6ddc41-9345-4520-bff8-1e67e4747426.jpg"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-wrr3VaeXt+ZJTbMl9dVibtqOxlkn1RwKtJgZn28q6y0="
+          "Value": "sha256-G7NuJRrqjK/axp1cWZeH61dAKo8gR+u9i07VNR4edmc="
         }
       ]
     },
     {
-      "Route": "uploads/68515_01_lisbonairport_portugal_27feb2020_wv3_485635.ycvkbl0mqj.jpg",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\68515_01_lisbonairport_portugal_27feb2020_wv3_485635.jpg",
+      "Route": "uploads/3a6ddc41-9345-4520-bff8-1e67e4747426.jpg",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\3a6ddc41-9345-4520-bff8-1e67e4747426.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7105,7 +7109,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "35228"
+          "Value": "4500189"
         },
         {
           "Name": "Content-Type",
@@ -7113,101 +7117,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wrr3VaeXt+ZJTbMl9dVibtqOxlkn1RwKtJgZn28q6y0=\""
+          "Value": "\"G7NuJRrqjK/axp1cWZeH61dAKo8gR+u9i07VNR4edmc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 14:10:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ycvkbl0mqj"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/68515_01_lisbonairport_portugal_27feb2020_wv3_485635.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wrr3VaeXt+ZJTbMl9dVibtqOxlkn1RwKtJgZn28q6y0="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P0102.7by18p8jk4.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0102.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2124396"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"86/D0tRRdIl+XLXk36CzBp0UTAf7fbGyDr8q39/cIc8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "7by18p8jk4"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/outputs/P0102.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-86/D0tRRdIl+XLXk36CzBp0UTAf7fbGyDr8q39/cIc8="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P0102.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0102.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2124396"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"86/D0tRRdIl+XLXk36CzBp0UTAf7fbGyDr8q39/cIc8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
+          "Value": "Sat, 17 May 2025 16:06:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7217,13 +7131,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-86/D0tRRdIl+XLXk36CzBp0UTAf7fbGyDr8q39/cIc8="
+          "Value": "sha256-G7NuJRrqjK/axp1cWZeH61dAKo8gR+u9i07VNR4edmc="
         }
       ]
     },
     {
-      "Route": "uploads/outputs/P0205.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0205.png",
+      "Route": "uploads/4a264945-6d9a-47af-b3ee-b23579e9b75f.ol8d7wha1d.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\4a264945-6d9a-47af-b3ee-b23579e9b75f.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7232,7 +7146,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17016387"
+          "Value": "6815658"
         },
         {
           "Name": "Content-Type",
@@ -7240,48 +7154,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"A/cTfxPJUIdUOKbjUCS8zSPx2inPCkWlsxnpgGCn5gs=\""
+          "Value": "\"zOMk4+GeNBcSec/76HCW62nSK3mf/NyC934lV0o6poE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-A/cTfxPJUIdUOKbjUCS8zSPx2inPCkWlsxnpgGCn5gs="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P0205.rebxz7gbvl.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0205.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17016387"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"A/cTfxPJUIdUOKbjUCS8zSPx2inPCkWlsxnpgGCn5gs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
+          "Value": "Sat, 17 May 2025 16:47:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7291,21 +7168,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rebxz7gbvl"
+          "Value": "ol8d7wha1d"
         },
         {
           "Name": "label",
-          "Value": "uploads/outputs/P0205.png"
+          "Value": "uploads/4a264945-6d9a-47af-b3ee-b23579e9b75f.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-A/cTfxPJUIdUOKbjUCS8zSPx2inPCkWlsxnpgGCn5gs="
+          "Value": "sha256-zOMk4+GeNBcSec/76HCW62nSK3mf/NyC934lV0o6poE="
         }
       ]
     },
     {
-      "Route": "uploads/outputs/P0506.ez2dcai01c.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0506.png",
+      "Route": "uploads/4a264945-6d9a-47af-b3ee-b23579e9b75f.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\4a264945-6d9a-47af-b3ee-b23579e9b75f.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7314,7 +7191,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13421664"
+          "Value": "6815658"
         },
         {
           "Name": "Content-Type",
@@ -7322,56 +7199,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WmRnnliS4El8UoA0DxPZIcSOxCm5TFKupLOqOWf4ox0=\""
+          "Value": "\"zOMk4+GeNBcSec/76HCW62nSK3mf/NyC934lV0o6poE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ez2dcai01c"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/outputs/P0506.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WmRnnliS4El8UoA0DxPZIcSOxCm5TFKupLOqOWf4ox0="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P0506.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0506.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13421664"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WmRnnliS4El8UoA0DxPZIcSOxCm5TFKupLOqOWf4ox0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
+          "Value": "Sat, 17 May 2025 16:47:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7381,13 +7213,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WmRnnliS4El8UoA0DxPZIcSOxCm5TFKupLOqOWf4ox0="
+          "Value": "sha256-zOMk4+GeNBcSec/76HCW62nSK3mf/NyC934lV0o6poE="
         }
       ]
     },
     {
-      "Route": "uploads/outputs/P0678.627yicaxmq.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0678.png",
+      "Route": "uploads/6873e41b-29f8-4996-a6d2-ae15a8ba9bb6.g0f5bwstsa.jpg",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\6873e41b-29f8-4996-a6d2-ae15a8ba9bb6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7396,19 +7228,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6491940"
+          "Value": "724627"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"Pjrw2i0MBYQ48R91cN4k+Cy7Bj9v6ZsI5LCzdrRL/JE=\""
+          "Value": "\"QEZJVarU++ICkCdXFj0z/LA/IK4CCU6GBgJYUJ75aM8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
+          "Value": "Sat, 17 May 2025 16:47:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7418,21 +7250,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "627yicaxmq"
+          "Value": "g0f5bwstsa"
         },
         {
           "Name": "label",
-          "Value": "uploads/outputs/P0678.png"
+          "Value": "uploads/6873e41b-29f8-4996-a6d2-ae15a8ba9bb6.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Pjrw2i0MBYQ48R91cN4k+Cy7Bj9v6ZsI5LCzdrRL/JE="
+          "Value": "sha256-QEZJVarU++ICkCdXFj0z/LA/IK4CCU6GBgJYUJ75aM8="
         }
       ]
     },
     {
-      "Route": "uploads/outputs/P0678.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0678.png",
+      "Route": "uploads/6873e41b-29f8-4996-a6d2-ae15a8ba9bb6.jpg",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\6873e41b-29f8-4996-a6d2-ae15a8ba9bb6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7441,19 +7273,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6491940"
+          "Value": "724627"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"Pjrw2i0MBYQ48R91cN4k+Cy7Bj9v6ZsI5LCzdrRL/JE=\""
+          "Value": "\"QEZJVarU++ICkCdXFj0z/LA/IK4CCU6GBgJYUJ75aM8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
+          "Value": "Sat, 17 May 2025 16:47:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7463,13 +7295,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Pjrw2i0MBYQ48R91cN4k+Cy7Bj9v6ZsI5LCzdrRL/JE="
+          "Value": "sha256-QEZJVarU++ICkCdXFj0z/LA/IK4CCU6GBgJYUJ75aM8="
         }
       ]
     },
     {
-      "Route": "uploads/outputs/P0836.bfw24dve0j.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0836.png",
+      "Route": "uploads/8bf5263e-ffef-4443-bdf7-21c0b3d1ed7a.5m35pmd9bf.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\8bf5263e-ffef-4443-bdf7-21c0b3d1ed7a.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7478,7 +7310,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11251619"
+          "Value": "2931583"
         },
         {
           "Name": "Content-Type",
@@ -7486,11 +7318,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WaeGRClK88vPCzjdwmiTVffIkomSYCFBXvEqltHdCBw=\""
+          "Value": "\"c30GTwZLm3Tq3x6RB0ozmKT3sbH8+ZazE0hUIpPPapw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
+          "Value": "Sat, 17 May 2025 17:15:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7500,21 +7332,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bfw24dve0j"
+          "Value": "5m35pmd9bf"
         },
         {
           "Name": "label",
-          "Value": "uploads/outputs/P0836.png"
+          "Value": "uploads/8bf5263e-ffef-4443-bdf7-21c0b3d1ed7a.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-WaeGRClK88vPCzjdwmiTVffIkomSYCFBXvEqltHdCBw="
+          "Value": "sha256-c30GTwZLm3Tq3x6RB0ozmKT3sbH8+ZazE0hUIpPPapw="
         }
       ]
     },
     {
-      "Route": "uploads/outputs/P0836.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0836.png",
+      "Route": "uploads/8bf5263e-ffef-4443-bdf7-21c0b3d1ed7a.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\8bf5263e-ffef-4443-bdf7-21c0b3d1ed7a.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7523,7 +7355,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11251619"
+          "Value": "2931583"
         },
         {
           "Name": "Content-Type",
@@ -7531,11 +7363,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WaeGRClK88vPCzjdwmiTVffIkomSYCFBXvEqltHdCBw=\""
+          "Value": "\"c30GTwZLm3Tq3x6RB0ozmKT3sbH8+ZazE0hUIpPPapw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
+          "Value": "Sat, 17 May 2025 17:15:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7545,13 +7377,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WaeGRClK88vPCzjdwmiTVffIkomSYCFBXvEqltHdCBw="
+          "Value": "sha256-c30GTwZLm3Tq3x6RB0ozmKT3sbH8+ZazE0hUIpPPapw="
         }
       ]
     },
     {
-      "Route": "uploads/outputs/P0842.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0842.png",
+      "Route": "uploads/9452dbf3-1376-4910-a08e-8b13b239a105.d6c9n8piny.jpg",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\9452dbf3-1376-4910-a08e-8b13b239a105.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7560,56 +7392,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8960872"
+          "Value": "4500189"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"Ug6mlgToUcU2TFII5CAKIbtwdKKitDIPv8OrG5udVKs=\""
+          "Value": "\"G7NuJRrqjK/axp1cWZeH61dAKo8gR+u9i07VNR4edmc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ug6mlgToUcU2TFII5CAKIbtwdKKitDIPv8OrG5udVKs="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P0842.qyr750eylx.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0842.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8960872"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ug6mlgToUcU2TFII5CAKIbtwdKKitDIPv8OrG5udVKs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
+          "Value": "Sat, 17 May 2025 16:07:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7619,21 +7414,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qyr750eylx"
+          "Value": "d6c9n8piny"
         },
         {
           "Name": "label",
-          "Value": "uploads/outputs/P0842.png"
+          "Value": "uploads/9452dbf3-1376-4910-a08e-8b13b239a105.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Ug6mlgToUcU2TFII5CAKIbtwdKKitDIPv8OrG5udVKs="
+          "Value": "sha256-G7NuJRrqjK/axp1cWZeH61dAKo8gR+u9i07VNR4edmc="
         }
       ]
     },
     {
-      "Route": "uploads/outputs/P0865.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0865.png",
+      "Route": "uploads/9452dbf3-1376-4910-a08e-8b13b239a105.jpg",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\9452dbf3-1376-4910-a08e-8b13b239a105.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7642,19 +7437,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11652666"
+          "Value": "4500189"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"sz7+hTeHGMYLKbeD90udxs6+kq6sSbjdtVY1uHFEKCg=\""
+          "Value": "\"G7NuJRrqjK/axp1cWZeH61dAKo8gR+u9i07VNR4edmc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
+          "Value": "Sat, 17 May 2025 16:07:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7664,796 +7459,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sz7+hTeHGMYLKbeD90udxs6+kq6sSbjdtVY1uHFEKCg="
+          "Value": "sha256-G7NuJRrqjK/axp1cWZeH61dAKo8gR+u9i07VNR4edmc="
         }
       ]
     },
     {
-      "Route": "uploads/outputs/P0865.vhryjnh3vg.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0865.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11652666"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"sz7+hTeHGMYLKbeD90udxs6+kq6sSbjdtVY1uHFEKCg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vhryjnh3vg"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/outputs/P0865.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-sz7+hTeHGMYLKbeD90udxs6+kq6sSbjdtVY1uHFEKCg="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P0880.na9qkenfns.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0880.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9467251"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j20vUPOPErMtS/ny3rYHchKTmhU+LBVc9gyFWbiMA9A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "na9qkenfns"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/outputs/P0880.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-j20vUPOPErMtS/ny3rYHchKTmhU+LBVc9gyFWbiMA9A="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P0880.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0880.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9467251"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j20vUPOPErMtS/ny3rYHchKTmhU+LBVc9gyFWbiMA9A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j20vUPOPErMtS/ny3rYHchKTmhU+LBVc9gyFWbiMA9A="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P0891.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0891.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13299091"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"naBJOymQF/K0rGOryihbxeL8TfdERqszlMx1zMSNXDY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:57:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-naBJOymQF/K0rGOryihbxeL8TfdERqszlMx1zMSNXDY="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P0891.z8mbaw97yb.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0891.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13299091"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"naBJOymQF/K0rGOryihbxeL8TfdERqszlMx1zMSNXDY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:57:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "z8mbaw97yb"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/outputs/P0891.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-naBJOymQF/K0rGOryihbxeL8TfdERqszlMx1zMSNXDY="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P0917.22n95hnzyk.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0917.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6192899"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+hXrEsBqgQRPKVIBfWnMKVP3480gFNBi0SThxKmAiOQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:57:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "22n95hnzyk"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/outputs/P0917.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-+hXrEsBqgQRPKVIBfWnMKVP3480gFNBi0SThxKmAiOQ="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P0917.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0917.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6192899"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+hXrEsBqgQRPKVIBfWnMKVP3480gFNBi0SThxKmAiOQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:57:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-+hXrEsBqgQRPKVIBfWnMKVP3480gFNBi0SThxKmAiOQ="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P0984.6e922g16y4.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0984.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19937388"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Dq41JG7HAY0xwIL6p04S6+9yoYG2520CIhqwNPTPTtQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:57:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6e922g16y4"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/outputs/P0984.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Dq41JG7HAY0xwIL6p04S6+9yoYG2520CIhqwNPTPTtQ="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P0984.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0984.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19937388"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Dq41JG7HAY0xwIL6p04S6+9yoYG2520CIhqwNPTPTtQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:57:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Dq41JG7HAY0xwIL6p04S6+9yoYG2520CIhqwNPTPTtQ="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P0996.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0996.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16302504"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"s8yFtCGUTEXaZ3YqtHgt6gMwSybZNRD9u5sY1eA7shk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:57:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-s8yFtCGUTEXaZ3YqtHgt6gMwSybZNRD9u5sY1eA7shk="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P0996.xnvo1j3us0.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0996.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16302504"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"s8yFtCGUTEXaZ3YqtHgt6gMwSybZNRD9u5sY1eA7shk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:57:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xnvo1j3us0"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/outputs/P0996.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-s8yFtCGUTEXaZ3YqtHgt6gMwSybZNRD9u5sY1eA7shk="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P1034.m4utu6253u.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P1034.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "22157115"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OqyZhjlce4iVIN9LYKaXG1m+7BmUPegI/SYB++YiT0A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:57:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "m4utu6253u"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/outputs/P1034.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-OqyZhjlce4iVIN9LYKaXG1m+7BmUPegI/SYB++YiT0A="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P1034.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P1034.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "22157115"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OqyZhjlce4iVIN9LYKaXG1m+7BmUPegI/SYB++YiT0A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:57:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-OqyZhjlce4iVIN9LYKaXG1m+7BmUPegI/SYB++YiT0A="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P1081.focdn3jek7.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P1081.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12694978"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kWvTNHkon7vpxmX0WGrdLosq6tV1Vo8OrjZ9qO3Sq/A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:57:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "focdn3jek7"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/outputs/P1081.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-kWvTNHkon7vpxmX0WGrdLosq6tV1Vo8OrjZ9qO3Sq/A="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P1081.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P1081.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12694978"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kWvTNHkon7vpxmX0WGrdLosq6tV1Vo8OrjZ9qO3Sq/A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:57:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kWvTNHkon7vpxmX0WGrdLosq6tV1Vo8OrjZ9qO3Sq/A="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P1146.cblq19gfc1.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P1146.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "27056791"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aBNzv+SNDMAkdUbbdXwWTJBhF4c8fFLBIGZFzBSaRQk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:57:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "cblq19gfc1"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/outputs/P1146.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-aBNzv+SNDMAkdUbbdXwWTJBhF4c8fFLBIGZFzBSaRQk="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P1146.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P1146.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "27056791"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aBNzv+SNDMAkdUbbdXwWTJBhF4c8fFLBIGZFzBSaRQk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:57:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-aBNzv+SNDMAkdUbbdXwWTJBhF4c8fFLBIGZFzBSaRQk="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P1169.d2oh3q5a2v.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P1169.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19335582"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Fe8Vj6d5YG108SD3vyOqPW3md+9XLFIQ8rBiVTNwv3U=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:57:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "d2oh3q5a2v"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/outputs/P1169.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Fe8Vj6d5YG108SD3vyOqPW3md+9XLFIQ8rBiVTNwv3U="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/outputs/P1169.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P1169.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19335582"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Fe8Vj6d5YG108SD3vyOqPW3md+9XLFIQ8rBiVTNwv3U=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:57:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Fe8Vj6d5YG108SD3vyOqPW3md+9XLFIQ8rBiVTNwv3U="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/P0102.7gwj02nugi.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0102.png",
+      "Route": "uploads/9ee349c2-d3b2-4430-9f1a-77f6de02f6c4.7gwj02nugi.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\9ee349c2-d3b2-4430-9f1a-77f6de02f6c4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8474,7 +7486,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:58 GMT"
+          "Value": "Sat, 17 May 2025 17:15:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8488,7 +7500,7 @@
         },
         {
           "Name": "label",
-          "Value": "uploads/P0102.png"
+          "Value": "uploads/9ee349c2-d3b2-4430-9f1a-77f6de02f6c4.png"
         },
         {
           "Name": "integrity",
@@ -8497,8 +7509,8 @@
       ]
     },
     {
-      "Route": "uploads/P0102.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0102.png",
+      "Route": "uploads/9ee349c2-d3b2-4430-9f1a-77f6de02f6c4.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\9ee349c2-d3b2-4430-9f1a-77f6de02f6c4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8519,7 +7531,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:58 GMT"
+          "Value": "Sat, 17 May 2025 17:15:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8534,8 +7546,8 @@
       ]
     },
     {
-      "Route": "uploads/P0205.lfir39x4r9.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0205.png",
+      "Route": "uploads/bccbbc10-3821-4bb4-88a5-f2eec7623fb0.emjgspb4u3.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\bccbbc10-3821-4bb4-88a5-f2eec7623fb0.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8544,7 +7556,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17073404"
+          "Value": "23298181"
         },
         {
           "Name": "Content-Type",
@@ -8552,11 +7564,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EU0Z7J++4FhMVK5NZglfp90fmXG3NniVFdOlINEwVw0=\""
+          "Value": "\"VhdMe1yYXWtsh1sbGuJrp8p7RTsxrEtYRVykV0ygCY8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:58 GMT"
+          "Value": "Sat, 17 May 2025 16:31:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8566,21 +7578,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lfir39x4r9"
+          "Value": "emjgspb4u3"
         },
         {
           "Name": "label",
-          "Value": "uploads/P0205.png"
+          "Value": "uploads/bccbbc10-3821-4bb4-88a5-f2eec7623fb0.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-EU0Z7J++4FhMVK5NZglfp90fmXG3NniVFdOlINEwVw0="
+          "Value": "sha256-VhdMe1yYXWtsh1sbGuJrp8p7RTsxrEtYRVykV0ygCY8="
         }
       ]
     },
     {
-      "Route": "uploads/P0205.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0205.png",
+      "Route": "uploads/bccbbc10-3821-4bb4-88a5-f2eec7623fb0.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\bccbbc10-3821-4bb4-88a5-f2eec7623fb0.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8589,7 +7601,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17073404"
+          "Value": "23298181"
         },
         {
           "Name": "Content-Type",
@@ -8597,11 +7609,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EU0Z7J++4FhMVK5NZglfp90fmXG3NniVFdOlINEwVw0=\""
+          "Value": "\"VhdMe1yYXWtsh1sbGuJrp8p7RTsxrEtYRVykV0ygCY8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:58 GMT"
+          "Value": "Sat, 17 May 2025 16:31:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8611,13 +7623,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EU0Z7J++4FhMVK5NZglfp90fmXG3NniVFdOlINEwVw0="
+          "Value": "sha256-VhdMe1yYXWtsh1sbGuJrp8p7RTsxrEtYRVykV0ygCY8="
         }
       ]
     },
     {
-      "Route": "uploads/P0506.321wwczgum.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0506.png",
+      "Route": "uploads/Hartsfield–Jackson-Atlanta-International-Airport.g0f5bwstsa.jpg",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\Hartsfield–Jackson-Atlanta-International-Airport.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8626,19 +7638,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13437152"
+          "Value": "724627"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"W80jl+DS7QkF9h4APm8s7tgTXHtHIdPo9nRMRBXb078=\""
+          "Value": "\"QEZJVarU++ICkCdXFj0z/LA/IK4CCU6GBgJYUJ75aM8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:58 GMT"
+          "Value": "Sat, 17 May 2025 15:40:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8648,21 +7660,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "321wwczgum"
+          "Value": "g0f5bwstsa"
         },
         {
           "Name": "label",
-          "Value": "uploads/P0506.png"
+          "Value": "uploads/Hartsfield–Jackson-Atlanta-International-Airport.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-W80jl+DS7QkF9h4APm8s7tgTXHtHIdPo9nRMRBXb078="
+          "Value": "sha256-QEZJVarU++ICkCdXFj0z/LA/IK4CCU6GBgJYUJ75aM8="
         }
       ]
     },
     {
-      "Route": "uploads/P0506.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0506.png",
+      "Route": "uploads/Hartsfield–Jackson-Atlanta-International-Airport.jpg",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\Hartsfield–Jackson-Atlanta-International-Airport.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8671,19 +7683,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13437152"
+          "Value": "724627"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"W80jl+DS7QkF9h4APm8s7tgTXHtHIdPo9nRMRBXb078=\""
+          "Value": "\"QEZJVarU++ICkCdXFj0z/LA/IK4CCU6GBgJYUJ75aM8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:58 GMT"
+          "Value": "Sat, 17 May 2025 15:40:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8693,13 +7705,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-W80jl+DS7QkF9h4APm8s7tgTXHtHIdPo9nRMRBXb078="
+          "Value": "sha256-QEZJVarU++ICkCdXFj0z/LA/IK4CCU6GBgJYUJ75aM8="
         }
       ]
     },
     {
-      "Route": "uploads/P0678.1arxs6ly98.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0678.png",
+      "Route": "uploads/online-1024x683.cc0fsx8pjs.jpg",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\online-1024x683.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8708,19 +7720,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6977887"
+          "Value": "243918"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"WUwf00GXXp0woyoxupgj8maDRSVOj9Awqs+GpwTBBtI=\""
+          "Value": "\"fC+n+NioDc4CcvB+BfGNiDVvXQl7td9mKr8IjdnwfSI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:58 GMT"
+          "Value": "Sat, 17 May 2025 15:26:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8730,21 +7742,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1arxs6ly98"
+          "Value": "cc0fsx8pjs"
         },
         {
           "Name": "label",
-          "Value": "uploads/P0678.png"
+          "Value": "uploads/online-1024x683.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-WUwf00GXXp0woyoxupgj8maDRSVOj9Awqs+GpwTBBtI="
+          "Value": "sha256-fC+n+NioDc4CcvB+BfGNiDVvXQl7td9mKr8IjdnwfSI="
         }
       ]
     },
     {
-      "Route": "uploads/P0678.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0678.png",
+      "Route": "uploads/online-1024x683.jpg",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\online-1024x683.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8753,19 +7765,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6977887"
+          "Value": "243918"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"WUwf00GXXp0woyoxupgj8maDRSVOj9Awqs+GpwTBBtI=\""
+          "Value": "\"fC+n+NioDc4CcvB+BfGNiDVvXQl7td9mKr8IjdnwfSI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:58 GMT"
+          "Value": "Sat, 17 May 2025 15:26:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8775,13 +7787,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WUwf00GXXp0woyoxupgj8maDRSVOj9Awqs+GpwTBBtI="
+          "Value": "sha256-fC+n+NioDc4CcvB+BfGNiDVvXQl7td9mKr8IjdnwfSI="
         }
       ]
     },
     {
-      "Route": "uploads/P0836.25lieapr6m.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0836.png",
+      "Route": "uploads/outputs/3601ae06-61fa-4d8a-b32a-62975d851f62.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\3601ae06-61fa-4d8a-b32a-62975d851f62.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8790,7 +7802,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11445510"
+          "Value": "2673229"
         },
         {
           "Name": "Content-Type",
@@ -8798,11 +7810,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hsFVB/sM7iBMlWd0bzSZlu7mWewy9l+AD23hEo1Va0s=\""
+          "Value": "\"pmp17thPF7YFsIiDdUmHxx2B+mL/znjY9sqdSXEhkmo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:58 GMT"
+          "Value": "Sat, 17 May 2025 17:08:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pmp17thPF7YFsIiDdUmHxx2B+mL/znjY9sqdSXEhkmo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/outputs/3601ae06-61fa-4d8a-b32a-62975d851f62.yxmm9t107p.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\3601ae06-61fa-4d8a-b32a-62975d851f62.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2673229"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pmp17thPF7YFsIiDdUmHxx2B+mL/znjY9sqdSXEhkmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 17:08:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8812,21 +7861,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "25lieapr6m"
+          "Value": "yxmm9t107p"
         },
         {
           "Name": "label",
-          "Value": "uploads/P0836.png"
+          "Value": "uploads/outputs/3601ae06-61fa-4d8a-b32a-62975d851f62.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hsFVB/sM7iBMlWd0bzSZlu7mWewy9l+AD23hEo1Va0s="
+          "Value": "sha256-pmp17thPF7YFsIiDdUmHxx2B+mL/znjY9sqdSXEhkmo="
         }
       ]
     },
     {
-      "Route": "uploads/P0836.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0836.png",
+      "Route": "uploads/outputs/4a264945-6d9a-47af-b3ee-b23579e9b75f.frt0jna60a.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\4a264945-6d9a-47af-b3ee-b23579e9b75f.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8835,7 +7884,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11445510"
+          "Value": "6844392"
         },
         {
           "Name": "Content-Type",
@@ -8843,48 +7892,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hsFVB/sM7iBMlWd0bzSZlu7mWewy9l+AD23hEo1Va0s=\""
+          "Value": "\"VZqvr94Te1HUo1WAGbL8UESrO82gqyzUJKHVgTlSxGQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hsFVB/sM7iBMlWd0bzSZlu7mWewy9l+AD23hEo1Va0s="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/P0842.7z8nt3hbyj.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0842.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8998286"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"M4ZSSKcGDMIDa8TR4VdKOZat+RV6oYYxtwkI//3Rnds=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:58 GMT"
+          "Value": "Sat, 17 May 2025 16:47:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8894,21 +7906,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7z8nt3hbyj"
+          "Value": "frt0jna60a"
         },
         {
           "Name": "label",
-          "Value": "uploads/P0842.png"
+          "Value": "uploads/outputs/4a264945-6d9a-47af-b3ee-b23579e9b75f.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-M4ZSSKcGDMIDa8TR4VdKOZat+RV6oYYxtwkI//3Rnds="
+          "Value": "sha256-VZqvr94Te1HUo1WAGbL8UESrO82gqyzUJKHVgTlSxGQ="
         }
       ]
     },
     {
-      "Route": "uploads/P0842.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0842.png",
+      "Route": "uploads/outputs/4a264945-6d9a-47af-b3ee-b23579e9b75f.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\4a264945-6d9a-47af-b3ee-b23579e9b75f.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8917,7 +7929,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8998286"
+          "Value": "6844392"
         },
         {
           "Name": "Content-Type",
@@ -8925,11 +7937,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"M4ZSSKcGDMIDa8TR4VdKOZat+RV6oYYxtwkI//3Rnds=\""
+          "Value": "\"VZqvr94Te1HUo1WAGbL8UESrO82gqyzUJKHVgTlSxGQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:58 GMT"
+          "Value": "Sat, 17 May 2025 16:47:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8939,13 +7951,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-M4ZSSKcGDMIDa8TR4VdKOZat+RV6oYYxtwkI//3Rnds="
+          "Value": "sha256-VZqvr94Te1HUo1WAGbL8UESrO82gqyzUJKHVgTlSxGQ="
         }
       ]
     },
     {
-      "Route": "uploads/P0865.a7ret7iie6.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0865.png",
+      "Route": "uploads/outputs/6873e41b-29f8-4996-a6d2-ae15a8ba9bb6.a5448xqpaj.jpg",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\6873e41b-29f8-4996-a6d2-ae15a8ba9bb6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8954,19 +7966,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12281978"
+          "Value": "802821"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"yiWO8V52RzvOFi05v+3ppk7PBDlumNg+L7awRQVJOYA=\""
+          "Value": "\"/vlwmkEFvMI6x0LQda8+38OeiPDfEwA/OVu4AgaBaD0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:58 GMT"
+          "Value": "Sat, 17 May 2025 16:47:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8976,21 +7988,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "a7ret7iie6"
+          "Value": "a5448xqpaj"
         },
         {
           "Name": "label",
-          "Value": "uploads/P0865.png"
+          "Value": "uploads/outputs/6873e41b-29f8-4996-a6d2-ae15a8ba9bb6.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-yiWO8V52RzvOFi05v+3ppk7PBDlumNg+L7awRQVJOYA="
+          "Value": "sha256-/vlwmkEFvMI6x0LQda8+38OeiPDfEwA/OVu4AgaBaD0="
         }
       ]
     },
     {
-      "Route": "uploads/P0865.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0865.png",
+      "Route": "uploads/outputs/6873e41b-29f8-4996-a6d2-ae15a8ba9bb6.jpg",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\6873e41b-29f8-4996-a6d2-ae15a8ba9bb6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8999,19 +8011,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12281978"
+          "Value": "802821"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"yiWO8V52RzvOFi05v+3ppk7PBDlumNg+L7awRQVJOYA=\""
+          "Value": "\"/vlwmkEFvMI6x0LQda8+38OeiPDfEwA/OVu4AgaBaD0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:58 GMT"
+          "Value": "Sat, 17 May 2025 16:47:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9021,13 +8033,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-yiWO8V52RzvOFi05v+3ppk7PBDlumNg+L7awRQVJOYA="
+          "Value": "sha256-/vlwmkEFvMI6x0LQda8+38OeiPDfEwA/OVu4AgaBaD0="
         }
       ]
     },
     {
-      "Route": "uploads/P0880.f3dwtm0q85.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0880.png",
+      "Route": "uploads/outputs/8bf5263e-ffef-4443-bdf7-21c0b3d1ed7a.hmy3u6kyod.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\8bf5263e-ffef-4443-bdf7-21c0b3d1ed7a.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9036,7 +8048,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9472159"
+          "Value": "2759468"
         },
         {
           "Name": "Content-Type",
@@ -9044,11 +8056,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"S99mPgsOZnoPdavh6nFZ/V4sKxxCoLmTNlCTwiS5mAA=\""
+          "Value": "\"97eufeR+WL+Y09hSdws7/gi9LkYr91S3TlUM/LweA/c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:58 GMT"
+          "Value": "Sat, 17 May 2025 17:15:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9058,21 +8070,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "f3dwtm0q85"
+          "Value": "hmy3u6kyod"
         },
         {
           "Name": "label",
-          "Value": "uploads/P0880.png"
+          "Value": "uploads/outputs/8bf5263e-ffef-4443-bdf7-21c0b3d1ed7a.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-S99mPgsOZnoPdavh6nFZ/V4sKxxCoLmTNlCTwiS5mAA="
+          "Value": "sha256-97eufeR+WL+Y09hSdws7/gi9LkYr91S3TlUM/LweA/c="
         }
       ]
     },
     {
-      "Route": "uploads/P0880.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0880.png",
+      "Route": "uploads/outputs/8bf5263e-ffef-4443-bdf7-21c0b3d1ed7a.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\8bf5263e-ffef-4443-bdf7-21c0b3d1ed7a.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9081,7 +8093,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9472159"
+          "Value": "2759468"
         },
         {
           "Name": "Content-Type",
@@ -9089,11 +8101,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"S99mPgsOZnoPdavh6nFZ/V4sKxxCoLmTNlCTwiS5mAA=\""
+          "Value": "\"97eufeR+WL+Y09hSdws7/gi9LkYr91S3TlUM/LweA/c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:58 GMT"
+          "Value": "Sat, 17 May 2025 17:15:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9103,13 +8115,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-S99mPgsOZnoPdavh6nFZ/V4sKxxCoLmTNlCTwiS5mAA="
+          "Value": "sha256-97eufeR+WL+Y09hSdws7/gi9LkYr91S3TlUM/LweA/c="
         }
       ]
     },
     {
-      "Route": "uploads/P0891.9thsqt4i11.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0891.png",
+      "Route": "uploads/outputs/9452dbf3-1376-4910-a08e-8b13b239a105.4iw9iuo3ek.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\9452dbf3-1376-4910-a08e-8b13b239a105.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9118,7 +8130,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13520879"
+          "Value": "25708084"
         },
         {
           "Name": "Content-Type",
@@ -9126,11 +8138,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0wiLc5k7wqn5WP25OpVxO0YS0Q4kDiyVQA/WzvvZzTo=\""
+          "Value": "\"NCmaFXsz287tBe4ncb/BrprS9/UBWXKiLOPLv2V1yDs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:58 GMT"
+          "Value": "Sat, 17 May 2025 16:09:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9140,21 +8152,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9thsqt4i11"
+          "Value": "4iw9iuo3ek"
         },
         {
           "Name": "label",
-          "Value": "uploads/P0891.png"
+          "Value": "uploads/outputs/9452dbf3-1376-4910-a08e-8b13b239a105.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0wiLc5k7wqn5WP25OpVxO0YS0Q4kDiyVQA/WzvvZzTo="
+          "Value": "sha256-NCmaFXsz287tBe4ncb/BrprS9/UBWXKiLOPLv2V1yDs="
         }
       ]
     },
     {
-      "Route": "uploads/P0891.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0891.png",
+      "Route": "uploads/outputs/9452dbf3-1376-4910-a08e-8b13b239a105.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\9452dbf3-1376-4910-a08e-8b13b239a105.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9163,7 +8175,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13520879"
+          "Value": "25708084"
         },
         {
           "Name": "Content-Type",
@@ -9171,11 +8183,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0wiLc5k7wqn5WP25OpVxO0YS0Q4kDiyVQA/WzvvZzTo=\""
+          "Value": "\"NCmaFXsz287tBe4ncb/BrprS9/UBWXKiLOPLv2V1yDs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:58 GMT"
+          "Value": "Sat, 17 May 2025 16:09:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9185,13 +8197,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0wiLc5k7wqn5WP25OpVxO0YS0Q4kDiyVQA/WzvvZzTo="
+          "Value": "sha256-NCmaFXsz287tBe4ncb/BrprS9/UBWXKiLOPLv2V1yDs="
         }
       ]
     },
     {
-      "Route": "uploads/P0917.cmxqkicxk2.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0917.png",
+      "Route": "uploads/outputs/9ee349c2-d3b2-4430-9f1a-77f6de02f6c4.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\9ee349c2-d3b2-4430-9f1a-77f6de02f6c4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9200,7 +8212,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6470182"
+          "Value": "2124360"
         },
         {
           "Name": "Content-Type",
@@ -9208,11 +8220,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tEjKdJP2jNEaabLXa1BwpCZeoZ7rDG0NlnwHv8H8O0s=\""
+          "Value": "\"cI6PQPmP78o/2b4wtMVv7MIJhleVJiexYRuVD+X4snM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:58 GMT"
+          "Value": "Sat, 17 May 2025 17:15:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cI6PQPmP78o/2b4wtMVv7MIJhleVJiexYRuVD+X4snM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/outputs/9ee349c2-d3b2-4430-9f1a-77f6de02f6c4.sdszgllpc4.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\9ee349c2-d3b2-4430-9f1a-77f6de02f6c4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2124360"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cI6PQPmP78o/2b4wtMVv7MIJhleVJiexYRuVD+X4snM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 17:15:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9222,21 +8271,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cmxqkicxk2"
+          "Value": "sdszgllpc4"
         },
         {
           "Name": "label",
-          "Value": "uploads/P0917.png"
+          "Value": "uploads/outputs/9ee349c2-d3b2-4430-9f1a-77f6de02f6c4.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-tEjKdJP2jNEaabLXa1BwpCZeoZ7rDG0NlnwHv8H8O0s="
+          "Value": "sha256-cI6PQPmP78o/2b4wtMVv7MIJhleVJiexYRuVD+X4snM="
         }
       ]
     },
     {
-      "Route": "uploads/P0917.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0917.png",
+      "Route": "uploads/outputs/Hartsfield–Jackson-Atlanta-International-Airport.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\Hartsfield–Jackson-Atlanta-International-Airport.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9245,7 +8294,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6470182"
+          "Value": "3249837"
         },
         {
           "Name": "Content-Type",
@@ -9253,11 +8302,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tEjKdJP2jNEaabLXa1BwpCZeoZ7rDG0NlnwHv8H8O0s=\""
+          "Value": "\"cNWGN5IKsqTyRIYgPyERrmyEf8jYXAbXaRx3qzSZKv0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:58 GMT"
+          "Value": "Sat, 17 May 2025 15:40:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9267,13 +8316,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tEjKdJP2jNEaabLXa1BwpCZeoZ7rDG0NlnwHv8H8O0s="
+          "Value": "sha256-cNWGN5IKsqTyRIYgPyERrmyEf8jYXAbXaRx3qzSZKv0="
         }
       ]
     },
     {
-      "Route": "uploads/P0984.gsdwzq4aa4.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0984.png",
+      "Route": "uploads/outputs/Hartsfield–Jackson-Atlanta-International-Airport.stqb6aymnj.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\Hartsfield–Jackson-Atlanta-International-Airport.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9282,7 +8331,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19944096"
+          "Value": "3249837"
         },
         {
           "Name": "Content-Type",
@@ -9290,11 +8339,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MIcutqxHvKCKsNApzPPJg24FFr1RcTBlTMVbtiQ+vxc=\""
+          "Value": "\"cNWGN5IKsqTyRIYgPyERrmyEf8jYXAbXaRx3qzSZKv0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:58 GMT"
+          "Value": "Sat, 17 May 2025 15:40:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9304,21 +8353,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gsdwzq4aa4"
+          "Value": "stqb6aymnj"
         },
         {
           "Name": "label",
-          "Value": "uploads/P0984.png"
+          "Value": "uploads/outputs/Hartsfield–Jackson-Atlanta-International-Airport.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MIcutqxHvKCKsNApzPPJg24FFr1RcTBlTMVbtiQ+vxc="
+          "Value": "sha256-cNWGN5IKsqTyRIYgPyERrmyEf8jYXAbXaRx3qzSZKv0="
         }
       ]
     },
     {
-      "Route": "uploads/P0984.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0984.png",
+      "Route": "uploads/outputs/online-1024x683.hf8k1w8q9o.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\online-1024x683.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9327,7 +8376,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19944096"
+          "Value": "1383644"
         },
         {
           "Name": "Content-Type",
@@ -9335,85 +8384,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MIcutqxHvKCKsNApzPPJg24FFr1RcTBlTMVbtiQ+vxc=\""
+          "Value": "\"U3dfOJoPoUfENkyw3SNznBCS/PIKotSetJmjf/Ykgbs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-MIcutqxHvKCKsNApzPPJg24FFr1RcTBlTMVbtiQ+vxc="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/P0996.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0996.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16313800"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/vQxxykPJfexViqrRNmqyG2uGLYUc4jdQIPdA0pc3zw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/vQxxykPJfexViqrRNmqyG2uGLYUc4jdQIPdA0pc3zw="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/P0996.y88dkboa3x.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0996.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16313800"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/vQxxykPJfexViqrRNmqyG2uGLYUc4jdQIPdA0pc3zw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
+          "Value": "Sat, 17 May 2025 15:26:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9423,21 +8398,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "y88dkboa3x"
+          "Value": "hf8k1w8q9o"
         },
         {
           "Name": "label",
-          "Value": "uploads/P0996.png"
+          "Value": "uploads/outputs/online-1024x683.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/vQxxykPJfexViqrRNmqyG2uGLYUc4jdQIPdA0pc3zw="
+          "Value": "sha256-U3dfOJoPoUfENkyw3SNznBCS/PIKotSetJmjf/Ykgbs="
         }
       ]
     },
     {
-      "Route": "uploads/P1034.1i2wjiow82.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P1034.png",
+      "Route": "uploads/outputs/online-1024x683.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\online-1024x683.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9446,7 +8421,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22247719"
+          "Value": "1383644"
         },
         {
           "Name": "Content-Type",
@@ -9454,56 +8429,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VzDRiMwwLi7HsetJHAW+lVE8F88pfxFNm8kI1cT9HRM=\""
+          "Value": "\"U3dfOJoPoUfENkyw3SNznBCS/PIKotSetJmjf/Ykgbs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1i2wjiow82"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/P1034.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-VzDRiMwwLi7HsetJHAW+lVE8F88pfxFNm8kI1cT9HRM="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/P1034.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P1034.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "22247719"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VzDRiMwwLi7HsetJHAW+lVE8F88pfxFNm8kI1cT9HRM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
+          "Value": "Sat, 17 May 2025 15:26:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9513,13 +8443,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VzDRiMwwLi7HsetJHAW+lVE8F88pfxFNm8kI1cT9HRM="
+          "Value": "sha256-U3dfOJoPoUfENkyw3SNznBCS/PIKotSetJmjf/Ykgbs="
         }
       ]
     },
     {
-      "Route": "uploads/P1081.7yfv4xu9qd.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P1081.png",
+      "Route": "uploads/outputs/P0026.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0026.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9528,7 +8458,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12725230"
+          "Value": "23252234"
         },
         {
           "Name": "Content-Type",
@@ -9536,56 +8466,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fyoeg+ASIZwdPVsE9XD5kbdqm3b6qcHKq/lWU/6LN+E=\""
+          "Value": "\"PwTdUuNdyBHIN7eklX/ZUc3NRfjAQvGIBT8M1JsJCuk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "7yfv4xu9qd"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/P1081.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-fyoeg+ASIZwdPVsE9XD5kbdqm3b6qcHKq/lWU/6LN+E="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/P1081.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P1081.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12725230"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fyoeg+ASIZwdPVsE9XD5kbdqm3b6qcHKq/lWU/6LN+E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
+          "Value": "Sat, 17 May 2025 16:38:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9595,13 +8480,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fyoeg+ASIZwdPVsE9XD5kbdqm3b6qcHKq/lWU/6LN+E="
+          "Value": "sha256-PwTdUuNdyBHIN7eklX/ZUc3NRfjAQvGIBT8M1JsJCuk="
         }
       ]
     },
     {
-      "Route": "uploads/P1146.cm8ij7m0v5.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P1146.png",
+      "Route": "uploads/outputs/P0026.pqwczyoanc.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P0026.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9610,7 +8495,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "27005547"
+          "Value": "23252234"
         },
         {
           "Name": "Content-Type",
@@ -9618,11 +8503,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JMtMNjvwlvB/obh4r1ixj4arSIa91/wQxakJ5ciybpY=\""
+          "Value": "\"PwTdUuNdyBHIN7eklX/ZUc3NRfjAQvGIBT8M1JsJCuk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
+          "Value": "Sat, 17 May 2025 16:38:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9632,21 +8517,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cm8ij7m0v5"
+          "Value": "pqwczyoanc"
         },
         {
           "Name": "label",
-          "Value": "uploads/P1146.png"
+          "Value": "uploads/outputs/P0026.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JMtMNjvwlvB/obh4r1ixj4arSIa91/wQxakJ5ciybpY="
+          "Value": "sha256-PwTdUuNdyBHIN7eklX/ZUc3NRfjAQvGIBT8M1JsJCuk="
         }
       ]
     },
     {
-      "Route": "uploads/P1146.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P1146.png",
+      "Route": "uploads/outputs/P2674_4.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P2674_4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9655,7 +8540,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "27005547"
+          "Value": "1065578"
         },
         {
           "Name": "Content-Type",
@@ -9663,11 +8548,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JMtMNjvwlvB/obh4r1ixj4arSIa91/wQxakJ5ciybpY=\""
+          "Value": "\"vI5UCntoToQaWAyuHQK0FdwFcdFzkFTWh3Z+jncOpP4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
+          "Value": "Sat, 17 May 2025 15:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9677,13 +8562,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JMtMNjvwlvB/obh4r1ixj4arSIa91/wQxakJ5ciybpY="
+          "Value": "sha256-vI5UCntoToQaWAyuHQK0FdwFcdFzkFTWh3Z+jncOpP4="
         }
       ]
     },
     {
-      "Route": "uploads/P1169.04kz43uq9i.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P1169.png",
+      "Route": "uploads/outputs/P2674_4.wr5msb2k3p.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\P2674_4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9692,7 +8577,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19335407"
+          "Value": "1065578"
         },
         {
           "Name": "Content-Type",
@@ -9700,11 +8585,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cN+Y6avI15CHyKBCsjb4AhzE8ZIxMSErzgM7/j6xNZQ=\""
+          "Value": "\"vI5UCntoToQaWAyuHQK0FdwFcdFzkFTWh3Z+jncOpP4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
+          "Value": "Sat, 17 May 2025 15:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9714,21 +8599,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "04kz43uq9i"
+          "Value": "wr5msb2k3p"
         },
         {
           "Name": "label",
-          "Value": "uploads/P1169.png"
+          "Value": "uploads/outputs/P2674_4.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cN+Y6avI15CHyKBCsjb4AhzE8ZIxMSErzgM7/j6xNZQ="
+          "Value": "sha256-vI5UCntoToQaWAyuHQK0FdwFcdFzkFTWh3Z+jncOpP4="
         }
       ]
     },
     {
-      "Route": "uploads/P1169.png",
-      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P1169.png",
+      "Route": "uploads/outputs/worldview-2-dallas-airport.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\worldview-2-dallas-airport.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9737,7 +8622,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19335407"
+          "Value": "25707046"
         },
         {
           "Name": "Content-Type",
@@ -9745,11 +8630,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cN+Y6avI15CHyKBCsjb4AhzE8ZIxMSErzgM7/j6xNZQ=\""
+          "Value": "\"RuZvvHfD4tDPeCXz4sKaSBiwlPZ2p/XELzqZn3t3Yp0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:56:59 GMT"
+          "Value": "Sat, 17 May 2025 16:38:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9759,12 +8644,303 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cN+Y6avI15CHyKBCsjb4AhzE8ZIxMSErzgM7/j6xNZQ="
+          "Value": "sha256-RuZvvHfD4tDPeCXz4sKaSBiwlPZ2p/XELzqZn3t3Yp0="
         }
       ]
     },
     {
-      "Route": "yolo_script.mzmyaiys00.py",
+      "Route": "uploads/outputs/worldview-2-dallas-airport.y6wnbriv99.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\outputs\\worldview-2-dallas-airport.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25707046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RuZvvHfD4tDPeCXz4sKaSBiwlPZ2p/XELzqZn3t3Yp0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:38:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y6wnbriv99"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/outputs/worldview-2-dallas-airport.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RuZvvHfD4tDPeCXz4sKaSBiwlPZ2p/XELzqZn3t3Yp0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/P0026.emjgspb4u3.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0026.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23298181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VhdMe1yYXWtsh1sbGuJrp8p7RTsxrEtYRVykV0ygCY8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:36:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "emjgspb4u3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/P0026.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VhdMe1yYXWtsh1sbGuJrp8p7RTsxrEtYRVykV0ygCY8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/P0026.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P0026.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23298181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VhdMe1yYXWtsh1sbGuJrp8p7RTsxrEtYRVykV0ygCY8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:36:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VhdMe1yYXWtsh1sbGuJrp8p7RTsxrEtYRVykV0ygCY8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/P2674_4.5s7cnjsvj1.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P2674_4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1073575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZdWm2oAYAmxl3UDHnfaccH75LsyqFHVD5JyMk1/bOsw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 15:49:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5s7cnjsvj1"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/P2674_4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZdWm2oAYAmxl3UDHnfaccH75LsyqFHVD5JyMk1/bOsw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/P2674_4.png",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\P2674_4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1073575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZdWm2oAYAmxl3UDHnfaccH75LsyqFHVD5JyMk1/bOsw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 15:49:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZdWm2oAYAmxl3UDHnfaccH75LsyqFHVD5JyMk1/bOsw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/worldview-2-dallas-airport.d6c9n8piny.jpg",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\worldview-2-dallas-airport.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4500189"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G7NuJRrqjK/axp1cWZeH61dAKo8gR+u9i07VNR4edmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:37:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d6c9n8piny"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/worldview-2-dallas-airport.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G7NuJRrqjK/axp1cWZeH61dAKo8gR+u9i07VNR4edmc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/worldview-2-dallas-airport.jpg",
+      "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\uploads\\worldview-2-dallas-airport.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4500189"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G7NuJRrqjK/axp1cWZeH61dAKo8gR+u9i07VNR4edmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:37:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G7NuJRrqjK/axp1cWZeH61dAKo8gR+u9i07VNR4edmc="
+        }
+      ]
+    },
+    {
+      "Route": "yolo_script.5ht1376qfu.py",
       "AssetFile": "C:\\Users\\bilgi\\Desktop\\YoloDetectionApp\\YoloDetectionApp\\wwwroot\\yolo_script.py",
       "Selectors": [],
       "ResponseHeaders": [
@@ -9774,7 +8950,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3583"
+          "Value": "3981"
         },
         {
           "Name": "Content-Type",
@@ -9782,11 +8958,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4po3hcqhZftBJbYNB9Lr4zUn8Ys9RXi1YDH5ftMwHj8=\""
+          "Value": "\"eYpsReguuRdY6OJ9b5C4jw++7Lb67aL/XlMvLHRod/M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:57:00 GMT"
+          "Value": "Sat, 17 May 2025 17:23:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9796,7 +8972,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mzmyaiys00"
+          "Value": "5ht1376qfu"
         },
         {
           "Name": "label",
@@ -9804,7 +8980,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4po3hcqhZftBJbYNB9Lr4zUn8Ys9RXi1YDH5ftMwHj8="
+          "Value": "sha256-eYpsReguuRdY6OJ9b5C4jw++7Lb67aL/XlMvLHRod/M="
         }
       ]
     },
@@ -9819,7 +8995,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3583"
+          "Value": "3981"
         },
         {
           "Name": "Content-Type",
@@ -9827,11 +9003,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4po3hcqhZftBJbYNB9Lr4zUn8Ys9RXi1YDH5ftMwHj8=\""
+          "Value": "\"eYpsReguuRdY6OJ9b5C4jw++7Lb67aL/XlMvLHRod/M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:57:00 GMT"
+          "Value": "Sat, 17 May 2025 17:23:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9841,7 +9017,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4po3hcqhZftBJbYNB9Lr4zUn8Ys9RXi1YDH5ftMwHj8="
+          "Value": "sha256-eYpsReguuRdY6OJ9b5C4jw++7Lb67aL/XlMvLHRod/M="
         }
       ]
     },

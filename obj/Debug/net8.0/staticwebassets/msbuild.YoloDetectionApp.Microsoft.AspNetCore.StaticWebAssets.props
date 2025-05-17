@@ -1098,318 +1098,138 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\68515_01_lisbonairport_portugal_27feb2020_wv3_485635.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\1249499e-a53a-4f9e-b1dd-37fc5cf783bd.png'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/68515_01_lisbonairport_portugal_27feb2020_wv3_485635.jpg</RelativePath>
+      <RelativePath>uploads/1249499e-a53a-4f9e-b1dd-37fc5cf783bd.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ycvkbl0mqj</Fingerprint>
-      <Integrity>wrr3VaeXt+ZJTbMl9dVibtqOxlkn1RwKtJgZn28q6y0=</Integrity>
+      <Fingerprint>emjgspb4u3</Fingerprint>
+      <Integrity>VhdMe1yYXWtsh1sbGuJrp8p7RTsxrEtYRVykV0ygCY8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\68515_01_lisbonairport_portugal_27feb2020_wv3_485635.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\1249499e-a53a-4f9e-b1dd-37fc5cf783bd.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0102.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\3601ae06-61fa-4d8a-b32a-62975d851f62.png'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/outputs/P0102.png</RelativePath>
+      <RelativePath>uploads/3601ae06-61fa-4d8a-b32a-62975d851f62.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7by18p8jk4</Fingerprint>
-      <Integrity>86/D0tRRdIl+XLXk36CzBp0UTAf7fbGyDr8q39/cIc8=</Integrity>
+      <Fingerprint>5m35pmd9bf</Fingerprint>
+      <Integrity>c30GTwZLm3Tq3x6RB0ozmKT3sbH8+ZazE0hUIpPPapw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0102.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\3601ae06-61fa-4d8a-b32a-62975d851f62.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0205.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\3a6ddc41-9345-4520-bff8-1e67e4747426.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/outputs/P0205.png</RelativePath>
+      <RelativePath>uploads/3a6ddc41-9345-4520-bff8-1e67e4747426.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>rebxz7gbvl</Fingerprint>
-      <Integrity>A/cTfxPJUIdUOKbjUCS8zSPx2inPCkWlsxnpgGCn5gs=</Integrity>
+      <Fingerprint>d6c9n8piny</Fingerprint>
+      <Integrity>G7NuJRrqjK/axp1cWZeH61dAKo8gR+u9i07VNR4edmc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0205.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\3a6ddc41-9345-4520-bff8-1e67e4747426.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0506.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\4a264945-6d9a-47af-b3ee-b23579e9b75f.png'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/outputs/P0506.png</RelativePath>
+      <RelativePath>uploads/4a264945-6d9a-47af-b3ee-b23579e9b75f.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ez2dcai01c</Fingerprint>
-      <Integrity>WmRnnliS4El8UoA0DxPZIcSOxCm5TFKupLOqOWf4ox0=</Integrity>
+      <Fingerprint>ol8d7wha1d</Fingerprint>
+      <Integrity>zOMk4+GeNBcSec/76HCW62nSK3mf/NyC934lV0o6poE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0506.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\4a264945-6d9a-47af-b3ee-b23579e9b75f.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0678.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\6873e41b-29f8-4996-a6d2-ae15a8ba9bb6.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/outputs/P0678.png</RelativePath>
+      <RelativePath>uploads/6873e41b-29f8-4996-a6d2-ae15a8ba9bb6.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>627yicaxmq</Fingerprint>
-      <Integrity>Pjrw2i0MBYQ48R91cN4k+Cy7Bj9v6ZsI5LCzdrRL/JE=</Integrity>
+      <Fingerprint>g0f5bwstsa</Fingerprint>
+      <Integrity>QEZJVarU++ICkCdXFj0z/LA/IK4CCU6GBgJYUJ75aM8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0678.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\6873e41b-29f8-4996-a6d2-ae15a8ba9bb6.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0836.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\8bf5263e-ffef-4443-bdf7-21c0b3d1ed7a.png'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/outputs/P0836.png</RelativePath>
+      <RelativePath>uploads/8bf5263e-ffef-4443-bdf7-21c0b3d1ed7a.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>bfw24dve0j</Fingerprint>
-      <Integrity>WaeGRClK88vPCzjdwmiTVffIkomSYCFBXvEqltHdCBw=</Integrity>
+      <Fingerprint>5m35pmd9bf</Fingerprint>
+      <Integrity>c30GTwZLm3Tq3x6RB0ozmKT3sbH8+ZazE0hUIpPPapw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0836.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\8bf5263e-ffef-4443-bdf7-21c0b3d1ed7a.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0842.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9452dbf3-1376-4910-a08e-8b13b239a105.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/outputs/P0842.png</RelativePath>
+      <RelativePath>uploads/9452dbf3-1376-4910-a08e-8b13b239a105.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qyr750eylx</Fingerprint>
-      <Integrity>Ug6mlgToUcU2TFII5CAKIbtwdKKitDIPv8OrG5udVKs=</Integrity>
+      <Fingerprint>d6c9n8piny</Fingerprint>
+      <Integrity>G7NuJRrqjK/axp1cWZeH61dAKo8gR+u9i07VNR4edmc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0842.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9452dbf3-1376-4910-a08e-8b13b239a105.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0865.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9ee349c2-d3b2-4430-9f1a-77f6de02f6c4.png'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/outputs/P0865.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>vhryjnh3vg</Fingerprint>
-      <Integrity>sz7+hTeHGMYLKbeD90udxs6+kq6sSbjdtVY1uHFEKCg=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0865.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0880.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>YoloDetectionApp</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/outputs/P0880.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>na9qkenfns</Fingerprint>
-      <Integrity>j20vUPOPErMtS/ny3rYHchKTmhU+LBVc9gyFWbiMA9A=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0880.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0891.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>YoloDetectionApp</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/outputs/P0891.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>z8mbaw97yb</Fingerprint>
-      <Integrity>naBJOymQF/K0rGOryihbxeL8TfdERqszlMx1zMSNXDY=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0891.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0917.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>YoloDetectionApp</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/outputs/P0917.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>22n95hnzyk</Fingerprint>
-      <Integrity>+hXrEsBqgQRPKVIBfWnMKVP3480gFNBi0SThxKmAiOQ=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0917.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0984.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>YoloDetectionApp</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/outputs/P0984.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>6e922g16y4</Fingerprint>
-      <Integrity>Dq41JG7HAY0xwIL6p04S6+9yoYG2520CIhqwNPTPTtQ=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0984.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0996.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>YoloDetectionApp</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/outputs/P0996.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xnvo1j3us0</Fingerprint>
-      <Integrity>s8yFtCGUTEXaZ3YqtHgt6gMwSybZNRD9u5sY1eA7shk=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0996.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P1034.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>YoloDetectionApp</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/outputs/P1034.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>m4utu6253u</Fingerprint>
-      <Integrity>OqyZhjlce4iVIN9LYKaXG1m+7BmUPegI/SYB++YiT0A=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P1034.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P1081.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>YoloDetectionApp</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/outputs/P1081.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>focdn3jek7</Fingerprint>
-      <Integrity>kWvTNHkon7vpxmX0WGrdLosq6tV1Vo8OrjZ9qO3Sq/A=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P1081.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P1146.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>YoloDetectionApp</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/outputs/P1146.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>cblq19gfc1</Fingerprint>
-      <Integrity>aBNzv+SNDMAkdUbbdXwWTJBhF4c8fFLBIGZFzBSaRQk=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P1146.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P1169.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>YoloDetectionApp</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/outputs/P1169.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>d2oh3q5a2v</Fingerprint>
-      <Integrity>Fe8Vj6d5YG108SD3vyOqPW3md+9XLFIQ8rBiVTNwv3U=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P1169.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0102.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>YoloDetectionApp</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/P0102.png</RelativePath>
+      <RelativePath>uploads/9ee349c2-d3b2-4430-9f1a-77f6de02f6c4.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -1420,277 +1240,313 @@
       <Integrity>B2MhdFlcQTF4XjQHow3NS7/HCj9RF/JKsvR1mDG35Jg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0102.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9ee349c2-d3b2-4430-9f1a-77f6de02f6c4.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0205.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\bccbbc10-3821-4bb4-88a5-f2eec7623fb0.png'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/P0205.png</RelativePath>
+      <RelativePath>uploads/bccbbc10-3821-4bb4-88a5-f2eec7623fb0.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>lfir39x4r9</Fingerprint>
-      <Integrity>EU0Z7J++4FhMVK5NZglfp90fmXG3NniVFdOlINEwVw0=</Integrity>
+      <Fingerprint>emjgspb4u3</Fingerprint>
+      <Integrity>VhdMe1yYXWtsh1sbGuJrp8p7RTsxrEtYRVykV0ygCY8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0205.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\bccbbc10-3821-4bb4-88a5-f2eec7623fb0.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0506.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Hartsfield–Jackson-Atlanta-International-Airport.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/P0506.png</RelativePath>
+      <RelativePath>uploads/Hartsfield–Jackson-Atlanta-International-Airport.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>321wwczgum</Fingerprint>
-      <Integrity>W80jl+DS7QkF9h4APm8s7tgTXHtHIdPo9nRMRBXb078=</Integrity>
+      <Fingerprint>g0f5bwstsa</Fingerprint>
+      <Integrity>QEZJVarU++ICkCdXFj0z/LA/IK4CCU6GBgJYUJ75aM8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0506.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Hartsfield–Jackson-Atlanta-International-Airport.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0678.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\online-1024x683.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/P0678.png</RelativePath>
+      <RelativePath>uploads/online-1024x683.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>1arxs6ly98</Fingerprint>
-      <Integrity>WUwf00GXXp0woyoxupgj8maDRSVOj9Awqs+GpwTBBtI=</Integrity>
+      <Fingerprint>cc0fsx8pjs</Fingerprint>
+      <Integrity>fC+n+NioDc4CcvB+BfGNiDVvXQl7td9mKr8IjdnwfSI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0678.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\online-1024x683.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0836.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\3601ae06-61fa-4d8a-b32a-62975d851f62.png'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/P0836.png</RelativePath>
+      <RelativePath>uploads/outputs/3601ae06-61fa-4d8a-b32a-62975d851f62.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>25lieapr6m</Fingerprint>
-      <Integrity>hsFVB/sM7iBMlWd0bzSZlu7mWewy9l+AD23hEo1Va0s=</Integrity>
+      <Fingerprint>yxmm9t107p</Fingerprint>
+      <Integrity>pmp17thPF7YFsIiDdUmHxx2B+mL/znjY9sqdSXEhkmo=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0836.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\3601ae06-61fa-4d8a-b32a-62975d851f62.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0842.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\4a264945-6d9a-47af-b3ee-b23579e9b75f.png'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/P0842.png</RelativePath>
+      <RelativePath>uploads/outputs/4a264945-6d9a-47af-b3ee-b23579e9b75f.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7z8nt3hbyj</Fingerprint>
-      <Integrity>M4ZSSKcGDMIDa8TR4VdKOZat+RV6oYYxtwkI//3Rnds=</Integrity>
+      <Fingerprint>frt0jna60a</Fingerprint>
+      <Integrity>VZqvr94Te1HUo1WAGbL8UESrO82gqyzUJKHVgTlSxGQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0842.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\4a264945-6d9a-47af-b3ee-b23579e9b75f.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0865.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\6873e41b-29f8-4996-a6d2-ae15a8ba9bb6.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/P0865.png</RelativePath>
+      <RelativePath>uploads/outputs/6873e41b-29f8-4996-a6d2-ae15a8ba9bb6.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>a7ret7iie6</Fingerprint>
-      <Integrity>yiWO8V52RzvOFi05v+3ppk7PBDlumNg+L7awRQVJOYA=</Integrity>
+      <Fingerprint>a5448xqpaj</Fingerprint>
+      <Integrity>/vlwmkEFvMI6x0LQda8+38OeiPDfEwA/OVu4AgaBaD0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0865.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\6873e41b-29f8-4996-a6d2-ae15a8ba9bb6.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0880.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\8bf5263e-ffef-4443-bdf7-21c0b3d1ed7a.png'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/P0880.png</RelativePath>
+      <RelativePath>uploads/outputs/8bf5263e-ffef-4443-bdf7-21c0b3d1ed7a.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>f3dwtm0q85</Fingerprint>
-      <Integrity>S99mPgsOZnoPdavh6nFZ/V4sKxxCoLmTNlCTwiS5mAA=</Integrity>
+      <Fingerprint>hmy3u6kyod</Fingerprint>
+      <Integrity>97eufeR+WL+Y09hSdws7/gi9LkYr91S3TlUM/LweA/c=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0880.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\8bf5263e-ffef-4443-bdf7-21c0b3d1ed7a.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0891.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\9452dbf3-1376-4910-a08e-8b13b239a105.png'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/P0891.png</RelativePath>
+      <RelativePath>uploads/outputs/9452dbf3-1376-4910-a08e-8b13b239a105.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>9thsqt4i11</Fingerprint>
-      <Integrity>0wiLc5k7wqn5WP25OpVxO0YS0Q4kDiyVQA/WzvvZzTo=</Integrity>
+      <Fingerprint>4iw9iuo3ek</Fingerprint>
+      <Integrity>NCmaFXsz287tBe4ncb/BrprS9/UBWXKiLOPLv2V1yDs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0891.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\9452dbf3-1376-4910-a08e-8b13b239a105.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0917.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\9ee349c2-d3b2-4430-9f1a-77f6de02f6c4.png'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/P0917.png</RelativePath>
+      <RelativePath>uploads/outputs/9ee349c2-d3b2-4430-9f1a-77f6de02f6c4.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>cmxqkicxk2</Fingerprint>
-      <Integrity>tEjKdJP2jNEaabLXa1BwpCZeoZ7rDG0NlnwHv8H8O0s=</Integrity>
+      <Fingerprint>sdszgllpc4</Fingerprint>
+      <Integrity>cI6PQPmP78o/2b4wtMVv7MIJhleVJiexYRuVD+X4snM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0917.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\9ee349c2-d3b2-4430-9f1a-77f6de02f6c4.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0984.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\Hartsfield–Jackson-Atlanta-International-Airport.png'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/P0984.png</RelativePath>
+      <RelativePath>uploads/outputs/Hartsfield–Jackson-Atlanta-International-Airport.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>gsdwzq4aa4</Fingerprint>
-      <Integrity>MIcutqxHvKCKsNApzPPJg24FFr1RcTBlTMVbtiQ+vxc=</Integrity>
+      <Fingerprint>stqb6aymnj</Fingerprint>
+      <Integrity>cNWGN5IKsqTyRIYgPyERrmyEf8jYXAbXaRx3qzSZKv0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0984.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\Hartsfield–Jackson-Atlanta-International-Airport.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0996.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\online-1024x683.png'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/P0996.png</RelativePath>
+      <RelativePath>uploads/outputs/online-1024x683.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>y88dkboa3x</Fingerprint>
-      <Integrity>/vQxxykPJfexViqrRNmqyG2uGLYUc4jdQIPdA0pc3zw=</Integrity>
+      <Fingerprint>hf8k1w8q9o</Fingerprint>
+      <Integrity>U3dfOJoPoUfENkyw3SNznBCS/PIKotSetJmjf/Ykgbs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0996.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\online-1024x683.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P1034.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0026.png'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/P1034.png</RelativePath>
+      <RelativePath>uploads/outputs/P0026.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>1i2wjiow82</Fingerprint>
-      <Integrity>VzDRiMwwLi7HsetJHAW+lVE8F88pfxFNm8kI1cT9HRM=</Integrity>
+      <Fingerprint>pqwczyoanc</Fingerprint>
+      <Integrity>PwTdUuNdyBHIN7eklX/ZUc3NRfjAQvGIBT8M1JsJCuk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P1034.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P0026.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P1081.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P2674_4.png'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/P1081.png</RelativePath>
+      <RelativePath>uploads/outputs/P2674_4.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7yfv4xu9qd</Fingerprint>
-      <Integrity>fyoeg+ASIZwdPVsE9XD5kbdqm3b6qcHKq/lWU/6LN+E=</Integrity>
+      <Fingerprint>wr5msb2k3p</Fingerprint>
+      <Integrity>vI5UCntoToQaWAyuHQK0FdwFcdFzkFTWh3Z+jncOpP4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P1081.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\P2674_4.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P1146.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\worldview-2-dallas-airport.png'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/P1146.png</RelativePath>
+      <RelativePath>uploads/outputs/worldview-2-dallas-airport.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>cm8ij7m0v5</Fingerprint>
-      <Integrity>JMtMNjvwlvB/obh4r1ixj4arSIa91/wQxakJ5ciybpY=</Integrity>
+      <Fingerprint>y6wnbriv99</Fingerprint>
+      <Integrity>RuZvvHfD4tDPeCXz4sKaSBiwlPZ2p/XELzqZn3t3Yp0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P1146.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\outputs\worldview-2-dallas-airport.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P1169.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0026.png'))">
       <SourceType>Package</SourceType>
       <SourceId>YoloDetectionApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/YoloDetectionApp</BasePath>
-      <RelativePath>uploads/P1169.png</RelativePath>
+      <RelativePath>uploads/P0026.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>04kz43uq9i</Fingerprint>
-      <Integrity>cN+Y6avI15CHyKBCsjb4AhzE8ZIxMSErzgM7/j6xNZQ=</Integrity>
+      <Fingerprint>emjgspb4u3</Fingerprint>
+      <Integrity>VhdMe1yYXWtsh1sbGuJrp8p7RTsxrEtYRVykV0ygCY8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P1169.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P0026.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P2674_4.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>YoloDetectionApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/YoloDetectionApp</BasePath>
+      <RelativePath>uploads/P2674_4.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5s7cnjsvj1</Fingerprint>
+      <Integrity>ZdWm2oAYAmxl3UDHnfaccH75LsyqFHVD5JyMk1/bOsw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\P2674_4.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\worldview-2-dallas-airport.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>YoloDetectionApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/YoloDetectionApp</BasePath>
+      <RelativePath>uploads/worldview-2-dallas-airport.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>d6c9n8piny</Fingerprint>
+      <Integrity>G7NuJRrqjK/axp1cWZeH61dAKo8gR+u9i07VNR4edmc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\worldview-2-dallas-airport.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\YoloDetectionApp.l7430tioib.bundle.scp.css'))">
       <SourceType>Package</SourceType>
@@ -1722,8 +1578,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>mzmyaiys00</Fingerprint>
-      <Integrity>4po3hcqhZftBJbYNB9Lr4zUn8Ys9RXi1YDH5ftMwHj8=</Integrity>
+      <Fingerprint>5ht1376qfu</Fingerprint>
+      <Integrity>eYpsReguuRdY6OJ9b5C4jw++7Lb67aL/XlMvLHRod/M=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\yolo_script.py'))</OriginalItemSpec>

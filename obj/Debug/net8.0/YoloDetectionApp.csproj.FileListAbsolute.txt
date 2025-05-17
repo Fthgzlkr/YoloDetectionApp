@@ -66,7 +66,6 @@ C:\Users\bilgi\Desktop\YoloDetectionApp\YoloDetectionApp\obj\Debug\net8.0\YoloDe
 C:\Users\bilgi\Desktop\YoloDetectionApp\YoloDetectionApp\obj\Debug\net8.0\YoloDetectionApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\bilgi\Desktop\YoloDetectionApp\YoloDetectionApp\obj\Debug\net8.0\YoloDetectionApp.RazorAssemblyInfo.cache
 C:\Users\bilgi\Desktop\YoloDetectionApp\YoloDetectionApp\obj\Debug\net8.0\YoloDetectionApp.RazorAssemblyInfo.cs
-C:\Users\bilgi\Desktop\YoloDetectionApp\YoloDetectionApp\obj\Debug\net8.0\YoloDetectionApp.sourcelink.json
 C:\Users\bilgi\Desktop\YoloDetectionApp\YoloDetectionApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\bilgi\Desktop\YoloDetectionApp\YoloDetectionApp\obj\Debug\net8.0\scopedcss\bundle\YoloDetectionApp.styles.css
 C:\Users\bilgi\Desktop\YoloDetectionApp\YoloDetectionApp\obj\Debug\net8.0\scopedcss\projectbundle\YoloDetectionApp.bundle.scp.css

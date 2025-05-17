@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using YoloDetectionApp.Models;
 using System.IO;
 
 namespace YoloDetectionApp.Controllers
@@ -16,17 +17,17 @@ namespace YoloDetectionApp.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-            return View();
+            // İlk açılışta boş ViewModel ile sayfa gösterilir
+            return View(new UploadResultViewModel());
         }
 
-      [HttpPost]
+[HttpPost]
 public IActionResult UploadImages(IEnumerable<IFormFile> uploadedFiles)
 {
+    var model = new UploadResultViewModel();
+
     if (uploadedFiles != null && uploadedFiles.Any())
     {
-        var processedImages = new List<string>();
-        var originalImages = new List<string>();
-
         string uploadsFolder = Path.Combine(_webHostEnvironment.WebRootPath, "uploads");
         string outputsFolder = Path.Combine(uploadsFolder, "outputs");
         Directory.CreateDirectory(uploadsFolder);
@@ -34,21 +35,30 @@ public IActionResult UploadImages(IEnumerable<IFormFile> uploadedFiles)
 
         foreach (var uploadedFile in uploadedFiles)
         {
-            string filePath = Path.Combine(uploadsFolder, uploadedFile.FileName);
+            // 🔐 Güvenli dosya adı oluştur
+            string extension = Path.GetExtension(uploadedFile.FileName);
+            string safeFileName = Guid.NewGuid().ToString() + extension;
 
-            using (var stream = new FileStream(filePath, FileMode.Create))
+            string inputFilePath = Path.Combine(uploadsFolder, safeFileName);
+            string outputFilePath = Path.Combine(outputsFolder, safeFileName);
+
+            // Girdiyi yükle
+            using (var stream = new FileStream(inputFilePath, FileMode.Create))
             {
                 uploadedFile.CopyTo(stream);
             }
 
-            // Python scripti
+            // Ham resmin web yolu
+            model.OriginalImages.Add("/uploads/" + safeFileName);
+
+            // Python betiğini çalıştır
             string pythonExe = "python";
             string pythonScript = Path.Combine(_webHostEnvironment.WebRootPath, "yolo_script.py");
 
             ProcessStartInfo psi = new ProcessStartInfo
             {
                 FileName = pythonExe,
-                Arguments = $"\"{pythonScript}\" \"{filePath}\"",
+                Arguments = $"\"{pythonScript}\" \"{inputFilePath}\"", // inputFilePath → script girişi
                 RedirectStandardOutput = true,
                 RedirectStandardError = true,
                 UseShellExecute = false,
@@ -57,31 +67,43 @@ public IActionResult UploadImages(IEnumerable<IFormFile> uploadedFiles)
 
             Process process = new Process { StartInfo = psi };
             process.Start();
+
+            string errors = process.StandardError.ReadToEnd();
             process.WaitForExit();
 
-            string outputFilePath = Path.Combine(outputsFolder, uploadedFile.FileName);
+            if (!string.IsNullOrWhiteSpace(errors))
+                Console.WriteLine("🟥 Python Hatası: " + errors);
 
-            // ⚠️ Retry ekledik
+            // ✅ Retry mekanizması
             int retry = 5;
-            while (!System.IO.File.Exists(outputFilePath) && retry-- > 0)
-                Thread.Sleep(200);
+            bool fileExists = false;
 
-            if (System.IO.File.Exists(outputFilePath))
+            while (retry-- > 0)
             {
-                string relativePath = "/uploads/outputs/" + uploadedFile.FileName;
-                processedImages.Add(relativePath);
+                if (System.IO.File.Exists(outputFilePath))
+                {
+                    fileExists = true;
+                    break;
+                }
+
+                Thread.Sleep(200); // 200ms bekle
             }
 
-            originalImages.Add("/uploads/" + uploadedFile.FileName);
+            if (fileExists)
+            {
+                string relativePath = "/uploads/outputs/" + safeFileName;
+                model.ProcessedImages.Add(relativePath);
+                Console.WriteLine("✅ Çıktı bulundu ve eklendi: " + relativePath);
+            }
+            else
+            {
+                Console.WriteLine("❌ Çıktı bulunamadı: " + outputFilePath);
+            }
         }
-
-        ViewBag.OriginalImages = originalImages;
-        ViewBag.ProcessedImages = processedImages;
     }
 
-    return View("Index");
+    return View("Index", model);
 }
-
 
 
     }
