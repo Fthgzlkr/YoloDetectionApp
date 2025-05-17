@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YoloDetectionApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e045cbba9189b712b55181d1c8084c9dbc08f6a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4b903c1e7c4d8762d1eb469e6416d33b5e0e519")]
 [assembly: System.Reflection.AssemblyProductAttribute("YoloDetectionApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YoloDetectionApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
